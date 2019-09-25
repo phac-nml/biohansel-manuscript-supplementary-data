@@ -10,7 +10,15 @@ The directory structure of this repo follows the structure of the BioHansel manu
 
 #### BioHansel Schemes
 
+- [SE_scheme_v1.0.7.fasta](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/BioHansel%20Schemes/SE_scheme_v1.0.7.fasta)
+- [SH_scheme_v0.5.0.fasta](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/BioHansel%20Schemes/SH_scheme_v0.5.0.fasta)
+- [ST_scheme_v0.5.5.fasta](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/BioHansel%20Schemes/ST_scheme_v0.5.5.fasta)
+- [tb_speciation_scheme_v1.0.5.fasta](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/BioHansel%20Schemes/tb_speciation_scheme_v1.0.5.fasta)
+- [Typhi_scheme_v1.2.0.fasta](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/BioHansel%20Schemes/Typhi_scheme_v1.2.0.fasta)
+
 #### Population_structure_backbones
+
+- [Backbone_positions_5_schemes.xlsx](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Backbone_positions_5_schemes.xlsx)
 
 ### 8.2 BioHansel
 
