@@ -1,0 +1,56 @@
+I don't know how these checks were done for Typhi or Heidelberg as I just used the data that was already in their respective directories. For the below serovars, I used biohansel on the directories of all of the samples and then ran the most_abundant_subtype python script on the biohansel tech results.tab file to see which of the 13 subtypes were the most abundant.
+
+From there, I randomly selected a sample of that subtype that passed QC and had all k-mers found or only one overall scheme k-mer missing and put it into the list below. These assemblies were run on art illumina to generate a 500x coverage (using the seed 42 as thats what I've used the whole time) and then these fq files were put together in contaminated results using seqtk and again the seed 42 to keep my data side consistent.
+
+After that, the output contaminated fastq files were put in the same direcrtory as the level of contamination that they had and then biohansel was run on it to get the number of failed results.
+
+Script to create contaminated reads is contaminate.sh. Run it with:
+
+srun -p NMLResearch -c 1 --mem=1G ./contaminate.sh
+
+It will work on all .fq files in the directory and pair the _1 and _2 ones.
+
+Enteritidis:
+
+           subtype  number	example_sample
+0          2.2.2.2    1300	SRR5966300
+118  2.2.4.1.2.1.3     927	SRR6967974
+1      2.2.2.1.1.2     918	SRR1822275
+2        2.2.2.1.1     890	SRR5152090
+116  2.2.4.1.2.1.1     884	SRR6898394
+110    2.1.5.4.1.3     838	SRR6373492
+4      2.2.2.1.1.1     816	SRR5868181
+5      2.2.2.1.2.1     778	SRR6945306
+6                2     760	SRR6900729
+117  2.2.4.1.2.1.2     730	SRR3049191
+7    2.2.2.1.1.2.1     666	SRR1813474
+115    2.2.4.1.2.1     647	SRR6897709
+8          2.1.1.1     573	SRR6922664
+
+
+Typhimurium:
+
+           subtype  number	example_sample
+58         2.2.1.4    1670	SRR1248861
+98           2.5.1    1616	SRR2407644
+124  2.8.1.3.9.4.1    1487	SRR6217926
+68         2.2.4.1    1317	ERR984817
+105        2.8.1.3    1268	SRR7172554
+30       2.1.2.1.1    1126	SRR2567009
+29         2.1.2.1     989	SRR5632913
+14             2.8     898	SRR3286945
+62       2.2.3.1.1     678	ERR217401
+9              2.3     666	SRR5896190
+6                2     598	SRR5341697
+33       2.1.2.1.2     565	SRR7410320
+41         2.2.1.3     562	SRR6366434
+
+I cannot seem to get a comment to stay so I've lost some of the stuff I had but generally, based on Phil's input:
+
+The goal here should be to show that biohansel can easily be run on a normal modern computer or laptop.
+
+For memory, a better cpu doesn't really change the memory used, so the best idea would be to report the memory used and show that it is easily in the scope of a modern machine which makes biohansel readily usable by others. Memory will be consistent across different machine types.
+
+As for time, the local tests done on my machine are going to be the most accurate as the cluster has a lot of noise from other jobs running. It would be better to give my machines specs for the biohansel times. Since this is what most end users may be running on and they won't have acces to an HPC. But it also shows that with a HPC, biohansel can be run using parallel computing to speed up the analysis times.
+
+So best not to really worry about describing the HPC.
