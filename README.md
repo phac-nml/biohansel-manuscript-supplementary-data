@@ -10,7 +10,7 @@ The directory structure of this repo follows the structure of the BioHansel manu
 
 BioHansel scheme development documentation: https://bio-hansel.readthedocs.io/en/readthedocs/user-docs/genotyping_schemes.html#creating-a-genotyping-scheme
 
-- [Additional_info_BioHansel_scheme_development.docx](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Additional_info_BioHansel_scheme_development.docx)
+- [Additional_info_BioHansel_scheme_development_and_adaptation.docx](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Additional_info_BioHansel_scheme_development_and_adaptation.docx)
 - [Backbone_positions_5_schemes.xlsx](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Backbone_positions_5_schemes.xlsx)
 
 #### BioHansel Schemes
