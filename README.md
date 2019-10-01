@@ -23,11 +23,12 @@ BioHansel scheme development documentation: https://bio-hansel.readthedocs.io/en
 
 #### Population_structure_backbones
 
-- [enteritidis_tree_v3_bold_font.pdf](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Population_structure_backbones/enteritidis_tree_v3_bold_font.pdf)
-- [heidelberg_tree_v2_bold_font.pdf](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Population_structure_backbones/heidelberg_tree_v2_bold_font.pdf)
-- [mtb_backbone_v2_bold_font.pdf](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Population_structure_backbones/mtb_backbone_v2_bold_font.pdf)
-- [typhimurium_tree_v2_bold_font.pdf](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Population_structure_backbones/typhimurium_tree_v2_bold_font.pdf)
-- [Typhi_tree_v2_bold_font.pdf](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Population_structure_backbones/Typhi_tree_v2_bold_font.pdf)
+- [Fig_Ia_Enteritidis_backbone_v1.0.7.pdf](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Population_structure_backbones/Fig_Ia_Enteritidis_backbone_v1.0.7.pdf)
+- [Fig_Ib_Heidelberg_backbone_v0.5.0.pdf](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Population_structure_backbones/Fig_Ib_Heidelberg_backbone_v0.5.0.pdf)
+- [Fib_Ic_Typhimurium_backbone_v0.5.5.pdf](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Population_structure_backbones/Fib_Ic_Typhimurium_backbone_v0.5.5.pdf)
+- [Fig_Id_Typhi_backbone_v1.2.0.pdf](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Population_structure_backbones/Fig_Id_Typhi_backbone_v1.2.0.pdf)
+- [Fig_Ie_MTB_backbone_v1.0.5.pdf](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Population_structure_backbones/Fig_Ie_MTB_backbone_v1.0.5.pdf)
+- [Caption_trees_Fig_Ia-e.txt](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Population_structure_backbones/Caption_trees_Fig_Ia-e.txt)
 
 ### 8.2 BioHansel
 
