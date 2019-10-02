@@ -54,7 +54,7 @@ Source code available at https://github.com/phac-nml/biohansel/
 
 #### 8.3.1.1 Real Illumina Dataset of S. Typhi
 
-- [Table S1 Typhi_1000_public_datasets_Enterobase_metadata.xlsx](./8.%20Methods/8.3%20Benchmarking%20BioHansel%20with%20traditional%20SNP%20calling%20workflows/8.3.1.1%20Real%20Illumina%20Dataset%20of%20S.%20Typhi/Table%20S1%20Typhi_1000_public_datasets_Enterobase_metadata.xlsx)
+- [Table_S1_List_of_1000_Salmonella_Typhi_Accessions.txt](./8.%20Methods/8.3%20Benchmarking%20BioHansel%20with%20traditional%20SNP%20calling%20workflows/8.3.1.1%20Real%20Illumina%20Dataset%20of%20S.%20Typhi/Table_S1_List_of_1000_Salmonella_Typhi_Accessions.txt)
 
 #### 8.3.1.2 Comparing Snippy and BioHansel for SNP Calling in real Illumina datasets of S. Typhi
 
