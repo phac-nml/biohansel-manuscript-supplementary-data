@@ -111,7 +111,7 @@ See https://github.com/peterk87/nf-biohansel-sra-benchmark for BioHansel and Sni
 
 ### 8.6 Analysis of retrospective outbreaks with BioHansel
 
-- [Table S12 SH_Outbreaks_Bekal_and_coll.xlsx](./8.%20Methods/8.6%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table%20S12%20SH_Outbreaks_Bekal_and_coll.xlsx)
+- [Table_S12_SH_Outbreaks_Bekal_and_coll.tab](./8.%20Methods/8.6%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table_S12_SH_Outbreaks_Bekal_and_coll.tab)
 - [SH_ref_SL476_NC_011083.1.fasta](./8.%20Methods/8.6%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SH_ref_SL476_NC_011083.1.fasta)
 
 ## 9. Results and Discussion
