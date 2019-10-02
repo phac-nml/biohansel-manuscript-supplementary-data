@@ -90,7 +90,10 @@ See https://github.com/peterk87/nf-biohansel-sra-benchmark for BioHansel and Sni
 
 #### 8.5.1 Datasets
 
-- [Tables S8 to S11 Lists_of_Salmonella_strains_with_partial_metadata.xlsx](./8.%20Methods/8.5%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.5.1%20Datasets/Tables%20S8%20to%20S11%20Lists_of_Salmonella_strains_with_partial_metadata.xlsx)
+- [Table_S8_List_of_1000_Salmonella_Enteritidis_strains.tab](./8.%20Methods/8.5%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.5.1%20Datasets/Table_S8_List_of_1000_Salmonella_Enteritidis_strains.tab)
+- [Table_S9_List_of_1000_Salmonella_Heidelberg_strains.tab](./8.%20Methods/8.5%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.5.1%20Datasets/Table_S9_List_of_1000_Salmonella_Heidelberg_strains.tab)
+- [Table_S10_List_of_1000_Salmonella_Typhi_strains.tab](./8.%20Methods/8.5%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.5.1%20Datasets/Table_S10_List_of_1000_Salmonella_Typhi_strains.tab)
+- [Table_S11_List_of_1000_Salmonella_Typhimurium_strains.tab](./8.%20Methods/8.5%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.5.1%20Datasets/Table_S11_List_of_1000_Salmonella_Typhimurium_strains.tab)
 
 #### 8.5.2 Generation of artificial sequencing data representing various genome coverage
 
