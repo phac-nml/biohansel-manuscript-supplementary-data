@@ -43,9 +43,12 @@ Source code available at https://github.com/phac-nml/biohansel/
 
 ### 8.2 Examples of BioHansel output files
 
-- [BioHansel_raw_datasets_match_results_SH_outbreaks.xlsx](./8.%20Methods/8.2%20BioHansel/8.2%20Examples%20of%20BioHansel%20output%20files/BioHansel_raw_datasets_match_results_SH_outbreaks.xlsx)
-- [BioHansel_raw_datasets_results_Sadjia_SH_outbreaks.xlsx](./8.%20Methods/8.2%20BioHansel/8.2%20Examples%20of%20BioHansel%20output%20files/BioHansel_raw_datasets_results_Sadjia_SH_outbreaks.xlsx)
-- [BioHansel_raw_datasets_tech_results_SH_outbreaks.xlsx](./8.%20Methods/8.2%20BioHansel/8.2%20Examples%20of%20BioHansel%20output%20files/BioHansel_raw_datasets_tech_results_SH_outbreaks.xlsx)
+- [BioHansel_Simple_Summary_genome_NC_011083_tech_results.tab](./8.%20Methods/8.2%20BioHansel/8.2%20Examples%20of%20BioHansel%20output%20files/BioHansel_Simple_Summary_genome_NC_011083_tech_results.tab)
+- [BioHansel_Results_Summary_genome_NC_011083_results.tab](./8.%20Methods/8.2%20BioHansel/8.2%20Examples%20of%20BioHansel%20output%20files/BioHansel_Results_Summary_genome_NC_011083_results.tab)
+- [BioHansel_Detailed_K-mer_Results_genome_NC_011083_match_results.tab](./8.%20Methods/8.2%20BioHansel/8.2%20Examples%20of%20BioHansel%20output%20files/BioHansel_Detailed_K-mer_Results_genome_NC_011083_match_results.tab)
+- [BioHansel_Simple_Summary_unassembled_reads_SH_outbreaks_tech_results.tab](./8.%20Methods/8.2%20BioHansel/8.2%20Examples%20of%20BioHansel%20output%20files/BioHansel_Simple_Summary_unassembled_reads_SH_outbreaks_tech_results.tab)
+- [BioHansel_Results_Summary_unassembled_reads_SH_outbreaks_results.tab](./8.%20Methods/8.2%20BioHansel/8.2%20Examples%20of%20BioHansel%20output%20files/BioHansel_Results_Summary_unassembled_reads_SH_outbreaks_results.tab)
+- [BioHansel_Detailed_K-mer_Results_unassembled_reads_SH_outbreaks_match_results.tab](./8.%20Methods/8.2%20BioHansel/8.2%20Examples%20of%20BioHansel%20output%20files/BioHansel_Detailed_K-mer_Results_unassembled_reads_SH_outbreaks_match_results.tab)
 
 ### 8.3 Benchmarking BioHansel with traditional SNP calling workflows
 
