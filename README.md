@@ -82,7 +82,7 @@ See https://github.com/jrober84/bio_hansel_benchmarking
 
 - [contaminate.sh](./8.%20Methods/8.4%20Benchmarking%20the%20BioHansel%20QA-QC%20module/8.4.2%20Generation%20of%20artificially%20contaminated%20datasets/contaminate.sh)
 - [create_reads.sh](./8.%20Methods/8.4%20Benchmarking%20the%20BioHansel%20QA-QC%20module/8.4.2%20Generation%20of%20artificially%20contaminated%20datasets/create_reads.sh)
-- [Process_This_file_needs_REVISION.txt](./8.%20Methods/8.4%20Benchmarking%20the%20BioHansel%20QA-QC%20module/8.4.2%20Generation%20of%20artificially%20contaminated%20datasets/Process_This_file_needs_REVISION.txt)
+- [Additional_info_Generation_of_artificially_contaminated_datasets.docx](./8.%20Methods/8.4%20Benchmarking%20the%20BioHansel%20QA-QC%20module/8.4.2%20Generation%20of%20artificially%20contaminated%20datasets/Additional_info_Generation_of_artificially_contaminated_datasets.docx)
 
 ### 8.5 Benchmarking BioHansel performance for computational speed and memory usage
 
