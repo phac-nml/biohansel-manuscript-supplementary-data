@@ -1,0 +1,17 @@
+Sample Accession	subtype tb_speciation_v1.0.5	QC (using max_kmer_freq=10000)	metadata tb_speciation v1.0.5 -Original_Coll_et_al	counts in this subtype out of 17285		
+ERR2515060	3	PASS	3	1584		
+ERR552415	4.8	PASS	4.8	882		
+SRR5216730	8.1	PASS	bov	2293		
+SRR1206023	8.2	PASS	6	328		
+ERR2512724	1.1.2	PASS	1.1.2	342		
+ERR2517031	1.2	PASS	1.2.1	339		
+SRR6152869	2.2.1	PASS	2.2.1	3293		
+ERR2513419	4.1.1.3	PASS	4.1.1.3	380		
+ERR163996	4.1.2	PASS	4.1.2	357		
+SRR6397472	4.1.2.1	PASS	4.1.2.1	1027		
+ERR2513763	4.3.3	PASS	4.3.3	497		
+ERR221649	4.3.4.2.1	PASS	4.3.4.2.1	930		
+ERR2515452	4.4.1.1	PASS	4.4.1.1	366		
+						
+						
+						
