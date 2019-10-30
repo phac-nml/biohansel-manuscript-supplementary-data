@@ -1,2 +1,0 @@
-Provide link to James' repository:
-https://github.com/jrober84/bio_hansel_benchmarking
