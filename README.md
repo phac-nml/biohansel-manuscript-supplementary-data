@@ -82,17 +82,17 @@ See https://github.com/peterk87/nf-biohansel-snippy-comparison/blob/master/main.
 
 #### 8.5.1 Selecting representative datasets
 
-- [Table_S4_List_of_MTB_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&amp;QC%20module/8.5.1%20Selecting%20representative%20datasets/Table_S4_List_of_MTB_accessions_for_generation_of_contaminated_datasets.txt)
-- [Table_S5_List_of_SE_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC%20module/8.5.1%20Selecting%20representative%20datasets/Table_S5_List_of_SE_accessions_for_generation_of_contaminated_datasets.txt)
-- [Table_S6_List_of_ST_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC%20module/8.5.1%20Selecting%20representative%20datasets/Table_S6_List_of_ST_accessions_for_generation_of_contaminated_datasets.txt)
-- [Table_S7_List_of_SH_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC%20module/8.5.1%20Selecting%20representative%20datasets/Table_S7_List_of_SH_accessions_for_generation_of_contaminated_datasets.txt)
-- [Table_S8_List_of_Typhi_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC%20module/8.5.1%20Selecting%20representative%20datasets/Table_S8_List_of_Typhi_accessions_for_generation_of_contaminated_datasets.txt)
+- [Table_S4_List_of_MTB_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC/8.5.1%20Selecting%20representative%20datasets/Table_S4_List_of_MTB_accessions_for_generation_of_contaminated_datasets.txt)
+- [Table_S5_List_of_SE_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC/8.5.1%20Selecting%20representative%20datasets/Table_S5_List_of_SE_accessions_for_generation_of_contaminated_datasets.txt)
+- [Table_S6_List_of_ST_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC/8.5.1%20Selecting%20representative%20datasets/Table_S6_List_of_ST_accessions_for_generation_of_contaminated_datasets.txt)
+- [Table_S7_List_of_SH_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC/8.5.1%20Selecting%20representative%20datasets/Table_S7_List_of_SH_accessions_for_generation_of_contaminated_datasets.txt)
+- [Table_S8_List_of_Typhi_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC/8.5.1%20Selecting%20representative%20datasets/Table_S8_List_of_Typhi_accessions_for_generation_of_contaminated_datasets.txt)
 
 #### 8.5.2 Generation of artificially contaminated datasets
 
-- [contaminate.sh](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC%20module/8.5.2%20Generation%20of%20artificially%20contaminated%20datasets/contaminate.sh)
-- [create_reads.sh](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC%20module/8.5.2%20Generation%20of%20artificially%20contaminated%20datasets/create_reads.sh)
-- [Additional_info_Generation_of_artificially_contaminated_datasets.pdf](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC%20module/8.5.2%20Generation%20of%20artificially%20contaminated%20datasets/Additional_info_Generation_of_artificially_contaminated_datasets.pdf)
+- [contaminate.sh](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC/8.5.2%20Generation%20of%20artificially%20contaminated%20datasets/contaminate.sh)
+- [create_reads.sh](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC/8.5.2%20Generation%20of%20artificially%20contaminated%20datasets/create_reads.sh)
+- [Additional_info_Generation_of_artificially_contaminated_datasets.pdf](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC/8.5.2%20Generation%20of%20artificially%20contaminated%20datasets/Additional_info_Generation_of_artificially_contaminated_datasets.pdf)
 
 ### 8.6 Benchmarking BioHansel performance for computational speed and memory usage
 
