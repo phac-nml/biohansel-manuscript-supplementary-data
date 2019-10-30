@@ -1,2 +1,0 @@
-Provide link to Peter's repository
-https://github.com/peterk87/nf-biohansel-sra-benchmark
