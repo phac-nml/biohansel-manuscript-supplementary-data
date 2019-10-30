@@ -67,26 +67,26 @@ See https://github.com/peterk87/nf-biohansel-snippy-comparison/blob/master/main.
 
 #### 8.4.1.3 Generation of artificially contaminated synthetic datasets for 5 pathogens
 
-- [Table S3 List of reference genomes.txt](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.3%20Generation%20of%20artificially%20contaminated%20synthetic%20datasets%20for%205%20pathogens/Table_S3_List_of_reference_genomes.txt)
+- [Table_S3_List_of_reference_genomes.txt](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.3%20Generation%20of%20artificially%20contaminated%20synthetic%20datasets%20for%205%20pathogens/Table_S3_List_of_reference_genomes.txt)
 - [Worksheet 1 Bash and Seqtk Commands.xlsx](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.3%20Generation%20of%20artificially%20contaminated%20synthetic%20datasets%20for%205%20pathogens/Worksheet%201%20Bash%20and%20Seqtk%20Commands.xlsx)
 
 #### 8.4.1.4 SNP detection on artificially contaminated synthetic datasets
 
 - [AE006468.2_ref_ST_LT2.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/AE006468.2_ref_ST_LT2.fasta)
 - [CP012921.1_ref_SH.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/CP012921.1_ref_SH.fasta)
-- [NC_000962.3_ref MTB_H37Rv.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/NC_000962.3_ref_MTB_H37Rv.fasta)
+- [NC_000962.3_ref_MTB_H37Rv.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/NC_000962.3_ref_MTB_H37Rv.fasta)
 - [NC_003198.1_ref_Typhi_CT18.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/NC_003198.1_ref_Typhi_CT18.fasta)
-- [NC_011294.1_ref SE P125109.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/NC_011294.1_ref_SE_P125109.fasta)
+- [NC_011294.1_ref_SE_P125109.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/NC_011294.1_ref_SE_P125109.fasta)
 
 ### 8.5 Benchmarking the BioHansel QA/QC module
 
 #### 8.5.1 Selecting representative datasets
 
-- [Table S4 List of MTB accessions for generation of contaminated datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC%20module/8.5.1%20Selecting%20representative%20datasets/Table_S4_List_of_MTB_accessions_for_generation_of_contaminated_datasets.txt)
-- [Table S5 List of SE accessions for generation of contaminated datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC%20module/8.5.1%20Selecting%20representative%20datasets/Table_S5_List_of_SE_accessions_for_generation_of_contaminated_datasets.txt)
-- [Table S6 List of ST accessions for generation of contaminated datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC%20module/8.5.1%20Selecting%20representative%20datasets/Table_S6_List_of_ST_accessions_for_generation_of_contaminated_datasets.txt)
-- [Table S7 List of SH accessions for generation of contaminated datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC%20module/8.5.1%20Selecting%20representative%20datasets/Table_S7_List_of_SH_accessions_for_generation_of_contaminated_datasets.txt)
-- [Table S8 List of Typhi accessions for generation of contaminated datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC%20module/8.5.1%20Selecting%20representative%20datasets/Table_S8_List_of_Typhi_accessions_for_generation_of_contaminated_datasets.txt)
+- [Table_S4_List_of_MTB_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC%20module/8.5.1%20Selecting%20representative%20datasets/Table_S4_List_of_MTB_accessions_for_generation_of_contaminated_datasets.txt)
+- [Table_S5_List_of_SE_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC%20module/8.5.1%20Selecting%20representative%20datasets/Table_S5_List_of_SE_accessions_for_generation_of_contaminated_datasets.txt)
+- [Table_S6_List_of_ST_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC%20module/8.5.1%20Selecting%20representative%20datasets/Table_S6_List_of_ST_accessions_for_generation_of_contaminated_datasets.txt)
+- [Table_S7_List_of_SH_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC%20module/8.5.1%20Selecting%20representative%20datasets/Table_S7_List_of_SH_accessions_for_generation_of_contaminated_datasets.txt)
+- [Table_S8_List_of_Typhi_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC%20module/8.5.1%20Selecting%20representative%20datasets/Table_S8_List_of_Typhi_accessions_for_generation_of_contaminated_datasets.txt)
 
 #### 8.5.2 Generation of artificially contaminated datasets
 
@@ -100,8 +100,7 @@ See https://github.com/peterk87/nf-biohansel-sra-benchmark for BioHansel and Sni
 
 #### 8.6.1 Datasets
 
-- [Table S9 List of 1017 Salmonella Enteritidis strains NextFlow workflow.txt]
-(./8.%20Methods/8.6%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.6.1%20Datasets/Table_S9_List_of_1017_Salmonella_Enteritidis_strains_NextFlow_workflow.txt)
+- [Table_S9_List_of_1017_Salmonella_Enteritidis_strains_NextFlow_workflow.txt](./8.%20Methods/8.6%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.6.1%20Datasets/Table_S9_List_of_1017_Salmonella_Enteritidis_strains_NextFlow_workflow.txt)
 - [Table_S10_List_of_1000_Salmonella_Enteritidis_strains.tab](./8.%20Methods/8.6%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.6.1%20Datasets/Table_S10_List_of_1000_Salmonella_Enteritidis_strains.tab)
 - [Table_S11_List_of_1000_Salmonella_Heidelberg_strains.tab](./8.%20Methods/8.6%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.6.1%20Datasets/Table_S11_List_of_1000_Salmonella_Heidelberg_strains.tab)
 - [Table_S12_List_of_1000_Salmonella_Typhi_strains.tab](./8.%20Methods/8.6%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.6.1%20Datasets/Table_S12_List_of_1000_Salmonella_Typhi_strains.tab)
@@ -111,9 +110,9 @@ See https://github.com/peterk87/nf-biohansel-sra-benchmark for BioHansel and Sni
 
 - [AE006468.2_ref_ST_LT2.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/AE006468.2_ref_ST_LT2.fasta)
 - [CP012921.1_ref_SH.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/CP012921.1_ref_SH.fasta)
-- [NC_000962.3_ref MTB_H37Rv.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/NC_000962.3_ref_MTB_H37Rv.fasta)
+- [NC_000962.3_ref_MTB_H37Rv.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/NC_000962.3_ref_MTB_H37Rv.fasta)
 - [NC_003198.1_ref_Typhi_CT18.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/NC_003198.1_ref_Typhi_CT18.fasta)
-- [NC_011294.1_ref SE P125109.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/NC_011294.1_ref_SE_P125109.fasta)
+- [NC_011294.1_ref_SE_P125109.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/NC_011294.1_ref_SE_P125109.fasta)
 
 #### 8.6.3 Determination of runtime and memory usage
 
