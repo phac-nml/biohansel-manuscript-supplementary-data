@@ -67,8 +67,8 @@ See https://github.com/peterk87/nf-biohansel-snippy-comparison/blob/master/main.
 
 #### 8.4.1.3 Generation of artificially contaminated synthetic datasets for 5 pathogens
 
-- [Table_S3_List_of_reference_genomes.txt](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.3%20Generation%20of%20artificially%20contaminated%20synthetic%20datasets%20for%205%20pathogens/Table_S3_List_of_reference_genomes.txt)
-- [Worksheet 1 Bash and Seqtk Commands.xlsx](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.3%20Generation%20of%20artificially%20contaminated%20synthetic%20datasets%20for%205%20pathogens/Worksheet%201%20Bash%20and%20Seqtk%20Commands.xlsx)
+- [Table_S3_List_of_reference_genomes.txt](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.3%20Generation%20of%20artificially%20contaminated%20synthetic%20datasets%20for%205%20target%20pathogens/Table_S3_List_of_reference_genomes.txt)
+- [Worksheet 1 Bash and Seqtk Commands.xlsx](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.3%20Generation%20of%20artificially%20contaminated%20synthetic%20datasets%20for%205%20target%20pathogens/Worksheet%201%20Bash%20and%20Seqtk%20Commands.xlsx)
 
 #### 8.4.1.4 SNP detection on artificially contaminated synthetic datasets
 
