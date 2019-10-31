@@ -130,9 +130,9 @@ See https://github.com/peterk87/nf-biohansel-sra-benchmark for BioHansel and Sni
 
 #### BioHansel_results_SH_outbreaks
 
-- [BioHansel_raw_datasets_match_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel_raw_datasets_match_results_SH_outbreaks.txt)
-- [BioHansel_raw_datasets_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel_raw_datasets_results_SH_outbreaks.txt)
-- [BioHansel_raw_datasets_tech_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel_raw_datasets_tech_results_SH_outbreaks.txt)
+- [BioHansel_raw_datasets_match_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel%20results%20for%20SH%20outbreaks%20dataset/BioHansel_raw_datasets_match_results_SH_outbreaks.txt)
+- [BioHansel_raw_datasets_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel%20results%20for%20SH%20outbreaks%20dataset/BioHansel_raw_datasets_results_SH_outbreaks.txt)
+- [BioHansel_raw_datasets_tech_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel%20results%20for%20SH%20outbreaks%20dataset/BioHansel_raw_datasets_tech_results_SH_outbreaks.txt)
 
 #### SNVPhyl_run_SH_outbreaks
 
