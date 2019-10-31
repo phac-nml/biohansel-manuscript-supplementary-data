@@ -125,62 +125,39 @@ See https://github.com/peterk87/nf-biohansel-sra-benchmark for BioHansel and Sni
 ### 9.1 Analysis of retrospective outbreaks with BioHansel
 
 - [Table_S1_SH_Outbreaks_Bekal_and_coll.tab](./8.%20Methods/8.6%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table_S12_SH_Outbreaks_Bekal_and_coll.tab)
-- [Table S14 S Heidelberg Backbone positions BioHansel scheme v0.5.0.xlsx](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table%20S33%20S%20Heidelberg%20Backbone%20positions%20BioHansel%20scheme%20v0.5.0.xlsx)
-- [Table S15 SH outbreaks SNV distance matrix.xlsx](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table%20S34%20SH%20outbreaks%20SNV%20distance%20matrix.xlsx)
-
+- [Table_S14_Heidelberg_backbone_tree_sequences_and_genome_positions_BioHansel_scheme v0.5.0.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table_S14_Heidelberg_backbone_tree_sequences_and_genome_positions_BioHansel_scheme%20v0.5.0.txt)
+- [Table_S15_SH_outbreaks_SNV_distance_matrix.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table_S15_SH_outbreaks_SNV_distance_matrix.txt)
 
 #### BioHansel_results_SH_outbreaks
 
-- [BioHansel_raw_datasets_match_results_SH_outbreaks.xlsx](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel_results_SH_outbreaks/BioHansel_raw_datasets_match_results_SH_outbreaks.xlsx)
-- [BioHansel_raw_datasets_results_Sadjia_SH_outbreaks.xlsx](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel_results_SH_outbreaks/BioHansel_raw_datasets_results_Sadjia_SH_outbreaks.xlsx)
-- [BioHansel_raw_datasets_tech_results_SH_outbreaks.xlsx](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel_results_SH_outbreaks/BioHansel_raw_datasets_tech_results_SH_outbreaks.xlsx)
+- [BioHansel_raw_datasets_match_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel_results_SH_outbreaks/BioHansel_raw_datasets_match_results_SH_outbreaks.txt)
+- [BioHansel_raw_datasets_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel_results_SH_outbreaks/BioHansel_raw_datasets_results_SH_outbreaks.txt)
+- [BioHansel_raw_datasets_tech_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel_results_SH_outbreaks/BioHansel_raw_datasets_tech_results_SH_outbreaks.txt)
 
 #### SNVPhyl_run_SH_outbreaks
 
 ![Figure_SH_outbreaks_v4.jpg](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SNVPhyl_run_SH_outbreaks/Figure_SH_outbreaks_v4.jpg)
 
-- [Figure_SH_outbreaks_v4.pptx](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SNVPhyl_run_SH_outbreaks/Figure_SH_outbreaks_v4.pptx)
-- [Galaxy545-[combined_invalid_positions].data](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SNVPhyl_run_SH_outbreaks/Galaxy545-[combined_invalid_positions].data)
-- [Galaxy546-[SH_outbreak_analysis-snvTable.tsv].tabular](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SNVPhyl_run_SH_outbreaks/Galaxy546-[SH_outbreak_analysis-snvTable.tsv].tabular)
-- [Galaxy547-[SH_outbreak_analysis-snvalign.fasta].fasta](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SNVPhyl_run_SH_outbreaks/Galaxy547-[SH_outbreak_analysis-snvalign.fasta].fasta)
-- [Galaxy549-[SH_outbreak_analysis-vcf2core.tsv].tabular](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SNVPhyl_run_SH_outbreaks/Galaxy549-[SH_outbreak_analysis-vcf2core.tsv].tabular)
-- [Galaxy550-[SH_outbreak_analysis-snvAlignment.phy].phylip](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SNVPhyl_run_SH_outbreaks/Galaxy550-[SH_outbreak_analysis-snvAlignment.phy].phylip)
-- [Galaxy551-[SH_outbreak_analysis-filterStats.txt].tabular](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SNVPhyl_run_SH_outbreaks/Galaxy551-[SH_outbreak_analysis-filterStats.txt].tabular)
-- [Galaxy552-[SH_outbreak_analysis-phylogeneticTree.newick].nhx](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SNVPhyl_run_SH_outbreaks/Galaxy552-[SH_outbreak_analysis-phylogeneticTree.newick].nhx)
-- [Galaxy553-[SH_outbreak_analysis-phylogeneticTreeStats.txt].txt](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SNVPhyl_run_SH_outbreaks/Galaxy553-[SH_outbreak_analysis-phylogeneticTreeStats.txt].txt)
-- [Galaxy554-[SH_outbreak_analysis-snvMatrix.tsv].tabular](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SNVPhyl_run_SH_outbreaks/Galaxy554-[SH_outbreak_analysis-snvMatrix.tsv].tabular)
-- [SH_outbreak_analysis-results.zip](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SNVPhyl_run_SH_outbreaks/SH_outbreak_analysis-results.zip)
-
+- [SH_outbreak_analysis_by_SNVPHYL-results.zip](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SH_outbreak_analysis_by_SNVPHYL-results.zip)
 
 ### 9.2 BioHansel concordance with traditional SNP calling workflows
 
-- [Analysis_of_the_16_Typhi_samples_that_failed_BioHansel_QC.docx](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Analysis_of_the_16_Typhi_samples_that_failed_BioHansel_QC.docx)
-- [Table S16 BioHansel_Coverage_Comparison_1000_Typhi_datasets.xlsx](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table%20S13%20BioHansel_Coverage_Comparison_1000_Typhi_datasets.xlsx)
-- [Tables S17 and S18 BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.xlsx](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Tables%20S14%20and%20S15%20BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.xlsx)
-- [Tables S19 to S21 Comparison base detection in mixed genomes for BioHansel and Snippy.xlsx](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Tables%20S16%20to%20S18%20Comparison%20base%20detection%20in%20mixed%20genomes%20for%20BioHansel%20and%20Snippy.xlsx)
-- [Table S22_and_Figure_S1.docx](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table%20S19_and_Figure_S1.docx)
-- [Tables S23 and S24 Metadata 1910 Typhi strains and BioHansel Results.xlsx](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Tables%20S20%20and%20S21%20Metadata%201910%20Typhi%20strains%20and%20BioHansel%20Results.xlsx)
+- [Analysis_of_the_16_Typhi_samples_that_failed_BioHansel_QC.pdf](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Analysis_of_the_16_Typhi_samples_that_failed_BioHansel_QC.pdf)
+- [Table_S16_BioHansel_Coverage_Comparison_1000_Typhi_datasets.xlsx](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S16_BioHansel_Coverage_Comparison_1000_Typhi_datasets.xlsx)
+- [Table_S17_Genotyping_results_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S17_Genotyping_results_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt)
+- [Table_S18_Genotyping_results_summary_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S18_Genotyping_results_summary_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt)
+- [Table_S19_Comparison_base_detection_in_mixed_genomes_for_BioHansel_and_Snippy.txt](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S19_Comparison_base_detection_in_mixed_genomes_for_BioHansel_and_Snippy.txt)
+- [Table_S20_Comparison_of_base_detection_at_each_target_SNP_position_in_mixed_genomes_for_BioHansel_and_Snippy.xlsx](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S20_Comparison_of_base_detection_at_each_target_SNP_position_in_mixed_genomes_for_BioHansel_and_Snippy.xlsx)
+- [Table_S21_Results_Summary_per_scheme_for_comparison_base_detection_in_mixed_genomes_for_BioHansel_and_Snippy.xlsx](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S21_Results_Summary_per_scheme_for_comparison_base_detection_in_mixed_genomes_for_BioHansel_and_Snippy.xlsx)
+- [Table_S22_Results_Summary_comparison_base_detection_in_mixed_genomes_BioHansel_and_Snippy.pdf](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S22_Results_Summary_comparison_base_detection_in_mixed_genomes_BioHansel_and_Snippy.pdf)
+- [Figure_S1_Comparison_of_base_detection_results_in_synthetically_contaminated_datasets_between_BioHansel_and_Snippy.pdf](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Figure_S1_Comparison_of_base_detection_results_in_synthetically_contaminated_datasets_between_BioHansel_and_Snippy.pdf)
+- [Table_S23_Metadata_for_1910_Typhi_strains.txt](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S23_Metadata_for_1910_Typhi_strains.txt)
+- [Table_S24_BioHansel_Results_for_1910_Typhi_strains.txt](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S24_BioHansel_Results_for_1910_Typhi_strains.txt)
 
 
 #### K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC
 
-- [all_in_one_kmer_results.tsv](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC/all_in_one_kmer_results.tsv)
-- [ERR204256_kmer_results.tsv](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC/ERR204256_kmer_results.tsv)
-- [ERR213231_kmer_results.tsv](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC/ERR213231_kmer_results.tsv)
-- [ERR213233_kmer_results.tsv](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC/ERR213233_kmer_results.tsv)
-- [ERR213234_kmer_results.tsv](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC/ERR213234_kmer_results.tsv)
-- [ERR213249_kmer_results.tsv](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC/ERR213249_kmer_results.tsv)
-- [ERR213251_kmer_results.tsv](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC/ERR213251_kmer_results.tsv)
-- [ERR213262_kmer_results.tsv](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC/ERR213262_kmer_results.tsv)
-- [ERR279153_kmer_results.tsv](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC/ERR279153_kmer_results.tsv)
-- [ERR279164_kmer_results.tsv](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC/ERR279164_kmer_results.tsv)
-- [ERR279165_kmer_results.tsv](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC/ERR279165_kmer_results.tsv)
-- [ERR279178_kmer_results.tsv](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC/ERR279178_kmer_results.tsv)
-- [ERR279191_kmer_results.tsv](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC/ERR279191_kmer_results.tsv)
-- [ERR326600_kmer_results.tsv](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC/ERR326600_kmer_results.tsv)
-- [ERR340783_kmer_results.tsv](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC/ERR340783_kmer_results.tsv)
-- [ERR357603_kmer_results.tsv](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC/ERR357603_kmer_results.tsv)
-- [ERR360616_kmer_results.tsv](./9.%20Results%20and%20Discussion/9.1%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC/ERR360616_kmer_results.tsv)
+- [K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC.zip](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC.zip)
 
 ### 9.3 QA-QC
 
