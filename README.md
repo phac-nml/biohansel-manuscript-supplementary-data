@@ -142,7 +142,6 @@ See https://github.com/peterk87/nf-biohansel-sra-benchmark for BioHansel and Sni
 
 ### 9.2 BioHansel concordance with traditional SNP calling workflows
 
-- [Analysis_of_the_16_Typhi_samples_that_failed_BioHansel_QC.pdf](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Analysis_of_the_16_Typhi_samples_that_failed_BioHansel_QC.pdf)
 - [Table_S16_BioHansel_Coverage_Comparison_1000_Typhi_datasets.xlsx](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S16_BioHansel_Coverage_Comparison_1000_Typhi_datasets.xlsx)
 - [Table_S17_Genotyping_results_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S17_Genotyping_results_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt)
 - [Table_S18_Genotyping_results_summary_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S18_Genotyping_results_summary_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt)
@@ -153,6 +152,7 @@ See https://github.com/peterk87/nf-biohansel-sra-benchmark for BioHansel and Sni
 - [Figure_S1_Comparison_of_base_detection_results_in_synthetically_contaminated_datasets_between_BioHansel_and_Snippy.pdf](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Figure_S1_Comparison_of_base_detection_results_in_synthetically_contaminated_datasets_between_BioHansel_and_Snippy.pdf)
 - [Table_S23_Metadata_for_1910_Typhi_strains.txt](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S23_Metadata_for_1910_Typhi_strains.txt)
 - [Table_S24_BioHansel_Results_for_1910_Typhi_strains.txt](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S24_BioHansel_Results_for_1910_Typhi_strains.txt)
+- [Analysis_of_the_16_Typhi_samples_that_failed_BioHansel_QC.pdf](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Analysis_of_the_16_Typhi_samples_that_failed_BioHansel_QC.pdf)
 
 
 #### K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC
