@@ -152,19 +152,21 @@ See https://github.com/peterk87/nf-biohansel-sra-benchmark for BioHansel and Sni
 - [Table_S24_BioHansel_Results_for_1910_Typhi_strains.txt](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S24_BioHansel_Results_for_1910_Typhi_strains.txt)
 - [Analysis_of_the_16_Typhi_samples_that_failed_BioHansel_QC.pdf](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Analysis_of_the_16_Typhi_samples_that_failed_BioHansel_QC.pdf)
 
-
 #### K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC
 
 - [K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC.zip](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC.zip)
 
-### 9.3 QA-QC
+### 9.3 QA&QC
 
 #### 9.3.1 BioHansel QC module detects contamination in synthetic WGS reads
 
-- [Tables S25-S29 Contaminated_datasets_BioHansel_results_with_charts.xlsx](./9.%20Results%20and%20Discussion/9.2%20QA-QC/9.2.1%20Detection%20of%20contamination%20in%20synthetic%20raw%20reads%20by%20the%20BioHansel%20QC%20module/Tables%20S22-S26%20Contaminated_datasets_BioHansel_results_with_charts.xlsx)
+- [Table_S25_BioHansel_QA&QC_results_with_synthetic_contaminated_SE_datasets.xlsx](./9.%20Results%20and%20Discussion/9.3%20QA&QC/9.3.1%20BioHansel%20QC%20module%20detects%20contamination%20in%20synthetic%20WGS%20reads/Table_S25_BioHansel_QA&QC_results_with_synthetic_contaminated_SE_datasets.xlsx)
+- [Table_S26_BioHansel_QA&QC_results_with_synthetic_contaminated_SH_datasets.xlsx](./9.%20Results%20and%20Discussion/9.3%20QA&QC/9.3.1%20BioHansel%20QC%20module%20detects%20contamination%20in%20synthetic%20WGS%20reads/Table_S26_BioHansel_QA&QC_results_with_synthetic_contaminated_SH_datasets.xlsx)
+- [Table_S27_BioHansel_QA&QC_results_with_synthetic_contaminated_Typhi_datasets.xlsx](./9.%20Results%20and%20Discussion/9.3%20QA&QC/9.3.1%20BioHansel%20QC%20module%20detects%20contamination%20in%20synthetic%20WGS%20reads/Table_S27_BioHansel_QA&QC_results_with_synthetic_contaminated_Typhi_datasets.xlsx)
+- [Table_S28_BioHansel_QA&QC_results_with_synthetic_contaminated_ST_datasets.xlsx](./9.%20Results%20and%20Discussion/9.3%20QA&QC/9.3.1%20BioHansel%20QC%20module%20detects%20contamination%20in%20synthetic%20WGS%20reads/Table_S28_BioHansel_QA&QC_results_with_synthetic_contaminated_ST_datasets.xlsx)
+- [Table_S29_BioHansel_QA&QC_results_with_synthetic_contaminated_MTB_datasets.xlsx](./9.%20Results%20and%20Discussion/9.3%20QA&QC/9.3.1%20BioHansel%20QC%20module%20detects%20contamination%20in%20synthetic%20WGS%20reads/Table_S29_BioHansel_QA&QC_results_with_synthetic_contaminated_MTB_datasets.xlsx)
 
 ### 9.4 Performance: comparing BioHansel runtime and memory usage with a traditional SNP genotyping workflow
-
 
 - [Table S31_and_Figures_S2_to_S4.docx](./9.%20Results%20and%20Discussion/9.3%20Performance_%20comparing%20BioHansel%20runtime%20and%20memory%20usage%20with%20a%20traditional%20SNP%20genotyping%20workflow/Table%20S31_and_Figures_S2_to_S4.docx)
 - [Tables S30, S31, and S34 Run_Time_Memory_Stats_HPC_cluster_BioHansel_vs_Snippy.xlsx](./9.%20Results%20and%20Discussion/9.3%20Performance_%20comparing%20BioHansel%20runtime%20and%20memory%20usage%20with%20a%20traditional%20SNP%20genotyping%20workflow/Tables%20S27,%20S28,%20and%20S31%20Run_Time_Memory_Stats_HPC_cluster_BioHansel_vs_Snippy.xlsx)
