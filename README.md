@@ -124,19 +124,17 @@ See https://github.com/peterk87/nf-biohansel-sra-benchmark for BioHansel and Sni
 
 ### 9.1 Analysis of retrospective outbreaks with BioHansel
 
-- [Table_S1_SH_Outbreaks_Bekal_and_coll.tab](./8.%20Methods/8.6%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table_S12_SH_Outbreaks_Bekal_and_coll.tab)
+- [Table_S1_SH_Outbreaks_Bekal_and_coll.tab](./8.%20Methods/8.3%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table_S1_SH_Outbreaks_Bekal_and_coll.tab)
 - [Table_S14_Heidelberg_backbone_tree_sequences_and_genome_positions_BioHansel_scheme v0.5.0.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table_S14_Heidelberg_backbone_tree_sequences_and_genome_positions_BioHansel_scheme%20v0.5.0.txt)
 - [Table_S15_SH_outbreaks_SNV_distance_matrix.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table_S15_SH_outbreaks_SNV_distance_matrix.txt)
 
 #### BioHansel_results_SH_outbreaks
 
-- [BioHansel_raw_datasets_match_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel_results_SH_outbreaks/BioHansel_raw_datasets_match_results_SH_outbreaks.txt)
-- [BioHansel_raw_datasets_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel_results_SH_outbreaks/BioHansel_raw_datasets_results_SH_outbreaks.txt)
-- [BioHansel_raw_datasets_tech_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel_results_SH_outbreaks/BioHansel_raw_datasets_tech_results_SH_outbreaks.txt)
+- [BioHansel_raw_datasets_match_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel_raw_datasets_match_results_SH_outbreaks.txt)
+- [BioHansel_raw_datasets_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel_raw_datasets_results_SH_outbreaks.txt)
+- [BioHansel_raw_datasets_tech_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel_raw_datasets_tech_results_SH_outbreaks.txt)
 
 #### SNVPhyl_run_SH_outbreaks
-
-![Figure_SH_outbreaks_v4.jpg](./9.%20Results%20and%20Discussion/9.4%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SNVPhyl_run_SH_outbreaks/Figure_SH_outbreaks_v4.jpg)
 
 - [SH_outbreak_analysis_by_SNVPHYL-results.zip](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SH_outbreak_analysis_by_SNVPHYL-results.zip)
 
