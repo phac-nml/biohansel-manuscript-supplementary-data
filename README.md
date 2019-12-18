@@ -4,95 +4,106 @@ This repository contains supplementary data for the BioHansel manuscript organiz
 
 The directory structure of this repo follows the structure of the BioHansel manuscript.
 
-## 8. Methods
+## Methods
 
-### 8.1 SNP-based genotyping schemes
+### Canonical SNP genotyping schemas
 
 BioHansel scheme development documentation: https://bio-hansel.readthedocs.io/en/readthedocs/user-docs/genotyping_schemes.html#creating-a-genotyping-scheme
 
-- [Additional_info_BioHansel_scheme_development_and_adaptation.docx](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Additional_info_BioHansel_scheme_development_and_adaptation.docx)
-- [Backbone_positions_5_schemes.xlsx](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Backbone_positions_5_schemes.xlsx)
+- [Appendix_I_Additional_info_BioHansel_schema_development_and_adaptation.docx](./Methods/Canonical%20SNP%20genotyping%20schemas/Appendix_I_Additional_info_BioHansel_schema_development_and_adaptation.docx)
+- [Table S1 Backbone positions 5 schemes.xlsx](./Methods/Canonical%20SNP%20genotyping%20schemas/Table_S1_Backbone_positions_5_schemas.xlsx)
 
-#### BioHansel Schemes
+#### BioHansel Schemas
 
-- [SE_scheme_v1.0.7.fasta](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/BioHansel%20Schemes/SE_scheme_v1.0.7.fasta)
-- [SH_scheme_v0.5.0.fasta](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/BioHansel%20Schemes/SH_scheme_v0.5.0.fasta)
-- [ST_scheme_v0.5.5.fasta](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/BioHansel%20Schemes/ST_scheme_v0.5.5.fasta)
-- [tb_speciation_scheme_v1.0.5.fasta](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/BioHansel%20Schemes/tb_speciation_scheme_v1.0.5.fasta)
-- [Typhi_scheme_v1.2.0.fasta](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/BioHansel%20Schemes/Typhi_scheme_v1.2.0.fasta)
+- [Schema 1 SH_scheme_v0.5.0.fasta](./Methods/Canonical%20SNP%20genotyping%20schemas/BioHansel%20Schemas/Schema%201%20SH_scheme_v0.5.0.fasta)
+- [Schema 2 SE_scheme_v1.0.7.fasta](./Methods/Canonical%20SNP%20genotyping%20schemas/BioHansel%20Schemas/Schema%202%20SE_scheme_v1.0.7.fasta)
+- [Schema 3 ST_scheme_v0.5.5.fasta](./Methods/Canonical%20SNP%20genotyping%20schemas/BioHansel%20Schemas/Schema%203%20ST_scheme_v0.5.5.fasta)
+- [Schema 4 Typhi_scheme_v1.2.0.fasta](./Methods/Canonical%20SNP%20genotyping%20schemas/BioHansel%20Schemas/Schema%204%20Typhi_scheme_v1.2.0.fasta)
+- [Schema 5 tb_speciation_scheme_v1.0.5.fasta](./Methods/Canonical%20SNP%20genotyping%20schemas/BioHansel%20Schemas/Schema%205%20tb_speciation_scheme_v1.0.5.fasta)
 
 #### Population_structure_backbones
 
-- [Fig_Ia_Enteritidis_backbone_v1.0.7.pdf](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Population_structure_backbones/Fig_Ia_Enteritidis_backbone_v1.0.7.pdf)
-- [Fig_Ib_Heidelberg_backbone_v0.5.0.pdf](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Population_structure_backbones/Fig_Ib_Heidelberg_backbone_v0.5.0.pdf)
-- [Fib_Ic_Typhimurium_backbone_v0.5.5.pdf](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Population_structure_backbones/Fib_Ic_Typhimurium_backbone_v0.5.5.pdf)
-- [Fig_Id_Typhi_backbone_v1.2.0.pdf](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Population_structure_backbones/Fig_Id_Typhi_backbone_v1.2.0.pdf)
-- [Fig_Ie_MTB_backbone_v1.0.5.pdf](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Population_structure_backbones/Fig_Ie_MTB_backbone_v1.0.5.pdf)
-- [Caption_trees_Fig_Ia-e.txt](./8.%20Methods/8.1%20SNP-based%20genotyping%20schemes/Population_structure_backbones/Caption_trees_Fig_Ia-e.txt)
+- [Fig_S1a_Enteritidis_backbone_v1.0.7.pdf](./Methods/Canonical%20SNP%20genotyping%20schemas/Population_structure_backbones/Fig_S1a_Enteritidis_backbone_v1.0.7.pdf)
+- [Fig_S1b_Heidelberg_backbone_v0.5.0.pdf](./Methods/Canonical%20SNP%20genotyping%20schemas/Population_structure_backbones/Fig_S1b_Heidelberg_backbone_v0.5.0.pdf)
+- [Fib_S1c_Typhimurium_backbone_v0.5.5.pdf](./Methods/Canonical%20SNP%20genotyping%20schemas/Population_structure_backbones/Fig_S1c_Typhimurium_backbone_v0.5.5.pdf)
+- [Fig_S1d_Typhi_backbone_v1.2.0.pdf](./Methods/Canonical%20SNP%20genotyping%20schemas/Population_structure_backbones/Fig_S1d_Typhi_backbone_v1.2.0.pdf)
+- [Fig_S1e_MTB_backbone_v1.0.5.pdf](./Methods/Canonical%20SNP%20genotyping%20schemas/Population_structure_backbones/Fig_S1e_MTB_backbone_v1.0.5.pdf)
+- [Caption_trees_Fig_S1a-e.txt](./Methods/Canonical%20SNP%20genotyping%20schemas/Population_structure_backbones/Caption_trees_Fig_S1a-e.txt)
 
-### 8.2 BioHansel
+### BioHansel
 
 ### Examples of BioHansel output files
 
-- [BioHansel_Simple_Summary_genome_NC_011083_tech_results.tab](./8.%20Methods/8.2%20BioHansel/8.2%20Examples%20of%20BioHansel%20output%20files/BioHansel_Simple_Summary_genome_NC_011083_tech_results.tab)
-- [BioHansel_Results_Summary_genome_NC_011083_results.tab](./8.%20Methods/8.2%20BioHansel/8.2%20Examples%20of%20BioHansel%20output%20files/BioHansel_Results_Summary_genome_NC_011083_results.tab)
-- [BioHansel_Detailed_K-mer_Results_genome_NC_011083_match_results.tab](./8.%20Methods/8.2%20BioHansel/8.2%20Examples%20of%20BioHansel%20output%20files/BioHansel_Detailed_K-mer_Results_genome_NC_011083_match_results.tab)
-- [BioHansel_Simple_Summary_unassembled_reads_SH_outbreaks_tech_results.tab](./8.%20Methods/8.2%20BioHansel/8.2%20Examples%20of%20BioHansel%20output%20files/BioHansel_Simple_Summary_unassembled_reads_SH_outbreaks_tech_results.tab)
-- [BioHansel_Results_Summary_unassembled_reads_SH_outbreaks_results.tab](./8.%20Methods/8.2%20BioHansel/8.2%20Examples%20of%20BioHansel%20output%20files/BioHansel_Results_Summary_unassembled_reads_SH_outbreaks_results.tab)
-- [BioHansel_Detailed_K-mer_Results_unassembled_reads_SH_outbreaks_match_results.tab](./8.%20Methods/8.2%20BioHansel/8.2%20Examples%20of%20BioHansel%20output%20files/BioHansel_Detailed_K-mer_Results_unassembled_reads_SH_outbreaks_match_results.tab)
+- [Table S2a BioHansel_Simple_Summary_genome_NC_011083_tech_results.tab](./Methods/BioHansel/BioHansel%20output%20files/Table%20S2a%20BioHansel_Simple_Summary_genome_NC_011083_tech_results.tab)
+- [Table S2b BioHansel_Results_Summary_genome_NC_011083_results.tab](./Methods/BioHansel/BioHansel%20output%20files/Table%20S2b%20BioHansel_Results_Summary_genome_NC_011083_results.tab)
+- [Table S2c BioHansel_Detailed_K-mer_Results_genome_NC_011083_match_results.tab](./Methods/BioHansel/BioHansel%20output%20files/Table%20S2c%20BioHansel_Detailed_K-mer_Results_genome_NC_011083_match_results.tab)
+- [Table S2d BioHansel_Simple_Summary_unassembled_reads_SH_outbreaks_tech_results.tab](./Methods/BioHansel/BioHansel%20output%20files/Table%20S2d%20BioHansel_Simple_Summary_unassembled_reads_SH_outbreaks_tech_results.tab)
+- [Table S2e BioHansel_Results_Summary_unassembled_reads_SH_outbreaks_results.tab](./Methods/BioHansel/BioHansel%20output%20files/Table%20S2e%20BioHansel_Results_Summary_unassembled_reads_SH_outbreaks_results.tab)
+- [Table S2f BioHansel_Detailed_K-mer_Results_unassembled_reads_SH_outbreaks_match_results.tab](./Methods/BioHansel/BioHansel%20output%20files/Table%20S2f%20BioHansel_Detailed_K-mer_Results_unassembled_reads_SH_outbreaks_match_results.tab)
 
-#### 8.2.3 BioHansel metadata tables
+#### BioHansel metadata tables
 
-- [tb_speciation_scheme_v1.0.5_metadata_Coll_et_al_genotypes.txt](./8.%20Methods/8.2%20BioHansel/8.2.3%20BioHansel%20metadata%20tables/tb_speciation_scheme_v1.0.5_metadata_Coll_et_al_genotypes.txt)
-- [Typhi_scheme_v1.2.0_metadata_Wong_et_al_genotypes.txt](./8.%20Methods/8.2%20BioHansel/8.2.3%20BioHansel%20metadata%20tables/Typhi_scheme_v1.2.0_metadata_Wong_et_al_genotypes.txt)
+- [Table S3a tb_speciation_scheme_v1.0.5_metadata_Coll_et_al_genotypes.txt](./Methods/BioHansel/BioHansel%20metadata%20tables/Table%20S3a%20tb_speciation_scheme_v1.0.5_metadata_Coll_et_al_genotypes.txt)
+- [Table S3b Typhi_scheme_v1.2.0_metadata_Wong_et_al_genotypes.txt](./Methods/BioHansel/BioHansel%20metadata%20tables/Table%20S3b%20Typhi_scheme_v1.2.0_metadata_Wong_et_al_genotypes.txt)
 
-#### 8.2.4 Source Code
+#### Source Code
 
 Source code available at https://github.com/phac-nml/biohansel/
 
-### 8.3 Analysis of retrospective outbreaks with BioHansel
+### Analysis of retrospective outbreaks with BioHansel
 
-- [Table_S1_SH_Outbreaks_Bekal_and_coll.tab](./8.%20Methods/8.3%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table_S1_SH_Outbreaks_Bekal_and_coll.tab)
-- [SH_ref_SL476_NC_011083.1.fasta](./8.%20Methods/8.3%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SH_ref_SL476_NC_011083.1.fasta)
+- [Table_S4_SH_Outbreaks_Bekal_and_coll.tab](./Methods/Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table_S1_SH_Outbreaks_Bekal_and_coll.tab)
+- [SH_ref_SL476_NC_011083.1.fasta](./Methods/Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SH_ref_SL476_NC_011083.1.fasta)
 
-### 8.4 Validating BioHansel genotyping results with traditional SNP calling workflows
+### BioHansel SNP detection validation
 
-#### 8.4.1.1 Real Illumina Dataset of *S*. Typhi
+#### SalmonellaTyphi WGS dataset construction
 
-- [Table_S2_List_of_1000_Salmonella_Typhi_Accessions.txt](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.1%20Real%20Illumina%20Dataset%20of%20S.%20Typhi/Table_S2_List_of_1000_Salmonella_Typhi_Accessions.txt)
+- [Table_S4_List_of_1000_Salmonella_Typhi_Accessions.txt](./Methods/BioHansel%20SNP%20detection%20validation/SalmonellaTyphi%20WGS%20dataset%20construction/Table_S4_List_of_1000_Salmonella_Typhi_Accessions.txt)
 
-#### 8.4.1.2 Validating BioHansel using real *S*. Typhi WGS data
+#### Concordance Assessment - *S*. Typhi
 
 See https://github.com/peterk87/nf-biohansel-snippy-comparison/blob/master/main.nf
+- [Worksheet 1 Detailed parameter settings for all programs used
+for validation](./Methods/BioHansel%20SNP%20detection%20validation/Supplementary%20Worksheet%201.pdf)
+- [Jupyter Notebook to tabulate NextFlow workflow results](./Methods/BioHansel%20SNP%20detection%20validation/Concordance%20Assessment%20-%20S.%20Typhi/py-compile-biohansel-snippy-comparison-results.ipynb)
 
-#### 8.4.1.3 Generation of artificially contaminated synthetic datasets for 5 pathogens
+### Contamination Detection
 
-- [Table_S3_List_of_reference_genomes.txt](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.3%20Generation%20of%20artificially%20contaminated%20synthetic%20datasets%20for%205%20target%20pathogens/Table_S3_List_of_reference_genomes.txt)
-- [Worksheet 1 Bash and Seqtk Commands.xlsx](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.3%20Generation%20of%20artificially%20contaminated%20synthetic%20datasets%20for%205%20target%20pathogens/Worksheet%201%20Bash%20and%20Seqtk%20Commands.xlsx)
+#### Construction of artificial contamination datasets to validate BioHansel’s mixed base calling results against Snippy’s
 
-#### 8.4.1.4 SNP detection on artificially contaminated synthetic datasets
+- [Table_S5_List_of_reference_genomes.txt](./Methods/Contamination%20Detection/Artificial%20contamination%20datasets%20for%20basecalling%20comparison/Table_S5_List_of_reference_genomes.txt)
+- [Worksheet 2 Bash and Seqtk Commands.xlsx](./Methods/Contamination%20Detection/Artificial%20contamination%20datasets%20for%20basecalling%20comparison/Worksheet%202%20Bash%20and%20Seqtk%20Commands.xlsx)
 
-- [AE006468.2_ref_ST_LT2.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/AE006468.2_ref_ST_LT2.fasta)
-- [CP012921.1_ref_SH.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/CP012921.1_ref_SH.fasta)
-- [NC_000962.3_ref_MTB_H37Rv.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/NC_000962.3_ref_MTB_H37Rv.fasta)
-- [NC_003198.1_ref_Typhi_CT18.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/NC_003198.1_ref_Typhi_CT18.fasta)
-- [NC_011294.1_ref_SE_P125109.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/NC_011294.1_ref_SE_P125109.fasta)
+#### Concordance Assessment – Artificial contamination datasets
 
-### 8.5 Benchmarking the BioHansel QA/QC module
+See https://github.com/jrober84/bio_hansel_benchmarking
 
-#### 8.5.1 Selecting representative datasets
+#### Reference genomes
 
-- [Table_S4_List_of_MTB_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC/8.5.1%20Selecting%20representative%20datasets/Table_S4_List_of_MTB_accessions_for_generation_of_contaminated_datasets.txt)
-- [Table_S5_List_of_SE_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC/8.5.1%20Selecting%20representative%20datasets/Table_S5_List_of_SE_accessions_for_generation_of_contaminated_datasets.txt)
-- [Table_S6_List_of_ST_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC/8.5.1%20Selecting%20representative%20datasets/Table_S6_List_of_ST_accessions_for_generation_of_contaminated_datasets.txt)
-- [Table_S7_List_of_SH_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC/8.5.1%20Selecting%20representative%20datasets/Table_S7_List_of_SH_accessions_for_generation_of_contaminated_datasets.txt)
-- [Table_S8_List_of_Typhi_accessions_for_generation_of_contaminated_datasets.txt](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC/8.5.1%20Selecting%20representative%20datasets/Table_S8_List_of_Typhi_accessions_for_generation_of_contaminated_datasets.txt)
+- [AE006468.2_ref_ST_LT2.fasta](./Methods/Contamination%20Detection/Concordance%20Assessment/Reference%20genomes/AE006468.2_ref_ST_LT2.fasta)
+- [CP012921.1_ref_SH.fasta](./Methods/Contamination%20Detection/Concordance%20Assessment/Reference%20genomes/CP012921.1_ref_SH.fasta)
+- [NC_000962.3_ref_MTB_H37Rv.fasta](./Methods/Contamination%20Detection/Concordance%20Assessment/Reference%20genomes/NC_000962.3_ref_MTB_H37Rv.fasta)
+- [NC_003198.1_ref_Typhi_CT18.fasta](./Methods/Contamination%20Detection/Concordance%20Assessment/Reference%20genomes/NC_003198.1_ref_Typhi_CT18.fasta)
+- [NC_011294.1_ref_SE_P125109.fasta](./Methods/Contamination%20Detection/Concordance%20Assessment/Reference%20genomes/NC_011294.1_ref_SE_P125109.fasta)
 
-#### 8.5.2 Generation of artificially contaminated datasets
 
-- [contaminate.sh](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC/8.5.2%20Generation%20of%20artificially%20contaminated%20datasets/contaminate.sh)
-- [create_reads.sh](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC/8.5.2%20Generation%20of%20artificially%20contaminated%20datasets/create_reads.sh)
-- [Additional_info_Generation_of_artificially_contaminated_datasets.pdf](./8.%20Methods/8.5%20Benchmarking%20the%20BioHansel%20QA&QC/8.5.2%20Generation%20of%20artificially%20contaminated%20datasets/Additional_info_Generation_of_artificially_contaminated_datasets.pdf)
+#### Generation of artificial contamination datasets for contamination detection
+
+#### Selecting representative datasets 
+
+- [Table_S6_List_of_ST_accessions_for_generation_of_contaminated_datasets.txt](./Methods/Contamination%20Detection/Artificial%20contamination%20datasets%20for%20contamination%20detection/Table_S6_List_of_ST_accessions_for_generation_of_contaminated_datasets.tab)
+- [Table_S7_List_of_SE_accessions_for_generation_of_contaminated_datasets.txt](./Methods/Contamination%20Detection/Artificial%20contamination%20datasets%20for%20contamination%20detection/Table_S7_List_of_SE_accessions_for_generation_of_contaminated_datasets.tab)
+- [Table_S8_List_of_Typhi_accessions_for_generation_of_contaminated_datasets.txt](./Methods/Contamination%20Detection/Artificial%20contamination%20datasets%20for%20contamination%20detection/Table_S8_List_of_Typhi_accessions_for_generation_of_contaminated_datasets.tab)
+- [Table_S9_List_of_MTB_accessions_for_generation_of_contaminated_datasets.txt](./Methods/Contamination%20Detection/Artificial%20contamination%20datasets%20for%20contamination%20detection/Table_S9_List_of_MTB_accessions_for_generation_of_contaminated_datasets.tab)
+- [Table_S10_List_of_SH_accessions_for_generation_of_contaminated_datasets.txt](./Methods/Contamination%20Detection/Artificial%20contamination%20datasets%20for%20contamination%20detection/Table_S10_List_of_SH_accessions_for_generation_of_contaminated_datasets.tab)
+
+
+#### Scripts
+
+- [Script 1 create_reads.sh](./Methods/Contamination%20Detection/Artificial%20contamination%20datasets%20for%20contamination%20detection/Script%201%20create_reads.sh)
+- [Script 2 contaminate.sh](./Methods/Contamination%20Detection/Artificial%20contamination%20datasets%20for%20contamination%20detection/Script%202%20contaminate.sh)
+- [Appendix II Additional_info_Generation_of_artificially_contaminated_datasets.pdf](./Methods/Contamination%20Detection/Artificial%20contamination%20datasets%20for%20contamination%20detection/Appendix%20II%20Supplementary%20methods%20for%20Contamination%20Process.pdf)
 
 ### 8.6 Benchmarking BioHansel performance for computational speed and memory usage
 
