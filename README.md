@@ -32,7 +32,7 @@ BioHansel scheme development documentation: https://bio-hansel.readthedocs.io/en
 
 ### BioHansel
 
-### Examples of BioHansel output files
+#### Examples of BioHansel output files
 
 - [Table S2a BioHansel_Simple_Summary_genome_NC_011083_tech_results.tab](./Methods/BioHansel/BioHansel%20output%20files/Table%20S2a%20BioHansel_Simple_Summary_genome_NC_011083_tech_results.tab)
 - [Table S2b BioHansel_Results_Summary_genome_NC_011083_results.tab](./Methods/BioHansel/BioHansel%20output%20files/Table%20S2b%20BioHansel_Results_Summary_genome_NC_011083_results.tab)
@@ -53,7 +53,7 @@ Source code available at https://github.com/phac-nml/biohansel/
 ### Analysis of retrospective outbreaks with BioHansel
 
 - [Table_S4_SH_Outbreaks_Bekal_and_coll.tab](./Methods/Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table_S1_SH_Outbreaks_Bekal_and_coll.tab)
-- [SH_ref_SL476_NC_011083.1.fasta](./Methods/Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SH_ref_SL476_NC_011083.1.fasta)
+- [Reference genome for SNVPhyl analysis of SH outbreaks: SH_ref_SL476_NC_011083.1.fasta](./Methods/Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SH_ref_SL476_NC_011083.1.fasta)
 
 ### BioHansel SNP detection validation
 
@@ -64,9 +64,12 @@ Source code available at https://github.com/phac-nml/biohansel/
 #### Concordance Assessment - *S*. Typhi
 
 See https://github.com/peterk87/nf-biohansel-snippy-comparison/blob/master/main.nf
+
 - [Worksheet 1 Detailed parameter settings for all programs used
 for validation](./Methods/BioHansel%20SNP%20detection%20validation/Supplementary%20Worksheet%201.pdf)
 - [Jupyter Notebook to tabulate NextFlow workflow results](./Methods/BioHansel%20SNP%20detection%20validation/Concordance%20Assessment%20-%20S.%20Typhi/py-compile-biohansel-snippy-comparison-results.ipynb)
+- [HTML version of Jupyter Notebook to tabulate NextFlow workflow results](./Methods/BioHansel%20SNP%20detection%20validation/Concordance%20Assessment%20-%20S.%20Typhi/py-compile-biohansel-snippy-comparison-results.html)
+- [bh-snippy-compare-1000genomes-S2-accessions.csv](./Methods/BioHansel%20SNP%20detection%20validation/Concordance%20Assessment%20-%20S.%20Typhi/bh-snippy-compare-1000genomes-S2-accessions.csv/bh-snippy-compare-1000genomes-S2-accessions.csv)
 
 ### Contamination Detection
 
@@ -105,81 +108,86 @@ See https://github.com/jrober84/bio_hansel_benchmarking
 - [Script 2 contaminate.sh](./Methods/Contamination%20Detection/Artificial%20contamination%20datasets%20for%20contamination%20detection/Script%202%20contaminate.sh)
 - [Appendix II Additional_info_Generation_of_artificially_contaminated_datasets.pdf](./Methods/Contamination%20Detection/Artificial%20contamination%20datasets%20for%20contamination%20detection/Appendix%20II%20Supplementary%20methods%20for%20Contamination%20Process.pdf)
 
-### 8.6 Benchmarking BioHansel performance for computational speed and memory usage
+### BioHansel compute performance
 
 See https://github.com/peterk87/nf-biohansel-sra-benchmark for BioHansel and Snippy benchmarking workflow
 
-#### 8.6.1 Datasets
+#### Selection of datasets and construction of artificial sequencing data
 
-- [Table_S9_List_of_1017_Salmonella_Enteritidis_strains_NextFlow_workflow.txt](./8.%20Methods/8.6%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.6.1%20Datasets/Table_S9_List_of_1017_Salmonella_Enteritidis_strains_NextFlow_workflow.txt)
-- [Table_S10_List_of_1000_Salmonella_Enteritidis_strains.tab](./8.%20Methods/8.6%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.6.1%20Datasets/Table_S10_List_of_1000_Salmonella_Enteritidis_strains.tab)
-- [Table_S11_List_of_1000_Salmonella_Heidelberg_strains.tab](./8.%20Methods/8.6%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.6.1%20Datasets/Table_S11_List_of_1000_Salmonella_Heidelberg_strains.tab)
-- [Table_S12_List_of_1000_Salmonella_Typhi_strains.tab](./8.%20Methods/8.6%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.6.1%20Datasets/Table_S12_List_of_1000_Salmonella_Typhi_strains.tab)
-- [Table_S13_List_of_1000_Salmonella_Typhimurium_strains.tab](./8.%20Methods/8.6%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.6.1%20Datasets/Table_S13_List_of_1000_Salmonella_Typhimurium_strains.tab)
+- [Table_S11_List_of_1017_Salmonella_Enteritidis_strains_NextFlow_workflow.txt](./Methods/BioHansel%20compute%20performance/Datasets/Table_S11_List_of_1017_Salmonella_Enteritidis_strains_NextFlow_workflow.txt)
+- [Table_S12_List_of_1000_Salmonella_Enteritidis_strains.tab](./Methods/BioHansel%20compute%20performance/Datasets/Table_S12_List_of_1000_Salmonella_Enteritidis_strains.tab)
+- [Table_S13_List_of_1000_Salmonella_Heidelberg_strains.tab](./Methods/BioHansel%20compute%20performance/Datasets/Table_S13_List_of_1000_Salmonella_Heidelberg_strains.tab)
+- [Table_S14_List_of_1000_Salmonella_Typhi_strains.tab](./Methods/BioHansel%20compute%20performance/Datasets/Table_S14_List_of_1000_Salmonella_Typhi_strains.tab)
+- [Table_S15_List_of_1000_Salmonella_Typhimurium_strains.tab](./Methods/BioHansel%20compute%20performance/Datasets/Table_S15_List_of_1000_Salmonella_Typhimurium_strains.tab)
 
-#### 8.6.2 Generation of artificial sequencing data representing various genome coverage
+#### Generation of artificial sequencing data representing various genome coverage
 
-- [AE006468.2_ref_ST_LT2.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/AE006468.2_ref_ST_LT2.fasta)
-- [CP012921.1_ref_SH.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/CP012921.1_ref_SH.fasta)
-- [NC_000962.3_ref_MTB_H37Rv.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/NC_000962.3_ref_MTB_H37Rv.fasta)
-- [NC_003198.1_ref_Typhi_CT18.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/NC_003198.1_ref_Typhi_CT18.fasta)
-- [NC_011294.1_ref_SE_P125109.fasta](./8.%20Methods/8.4%20Validating%20BioHansel%20genotyping%20results%20with%20traditional%20SNP%20calling%20workflows/8.4.1.4%20SNP%20detection%20on%20artificially%20contaminated%20synthetic%20datasets/NC_011294.1_ref_SE_P125109.fasta)
+- [AE006468.2_ref_ST_LT2.fasta](./Methods/Contamination%20Detection/Concordance%20Assessment/Reference%20genomes/AE006468.2_ref_ST_LT2.fasta)
+- [CP012921.1_ref_SH.fasta](./Methods/Contamination%20Detection/Concordance%20Assessment/Reference%20genomes/CP012921.1_ref_SH.fasta)
+- [NC_000962.3_ref_MTB_H37Rv.fasta](./Methods/Contamination%20Detection/Concordance%20Assessment/Reference%20genomes/NC_000962.3_ref_MTB_H37Rv.fasta)
+- [NC_003198.1_ref_Typhi_CT18.fasta](./Methods/Contamination%20Detection/Concordance%20Assessment/Reference%20genomes/NC_003198.1_ref_Typhi_CT18.fasta)
+- [NC_011294.1_ref_SE_P125109.fasta](./Methods/Contamination%20Detection/Concordance%20Assessment/Reference%20genomes/NC_011294.1_ref_SE_P125109.fasta)
 
-#### 8.6.3 Determination of runtime and memory usage
+#### Determination of runtime and memory usage
 
-- [py-biohansel-vs-snippy-benchmarking-results.html](./8.%20Methods/8.6%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.6.3%20Determination%20of%20runtime%20and%20memory%20usage/py-biohansel-vs-snippy-benchmarking-results.html)
-- [py-biohansel-vs-snippy-benchmarking-results.ipynb](./8.%20Methods/8.6%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.6.3%20Determination%20of%20runtime%20and%20memory%20usage/py-biohansel-vs-snippy-benchmarking-results.ipynb)
-- [trace.csv](./8.%20Methods/8.6%20Benchmarking%20BioHansel%20performance%20for%20computational%20speed%20and%20memory%20usage/8.6.3%20Determination%20of%20runtime%20and%20memory%20usage/trace.csv)
+- [py-biohansel-vs-snippy-benchmarking-results.html](./Methods/BioHansel%20compute%20performance/Determination%20of%20runtime%20and%20memory%20usage/py-biohansel-vs-snippy-benchmarking-results.html)
+- [py-biohansel-vs-snippy-benchmarking-results.ipynb](./Methods/BioHansel%20compute%20performance/Determination%20of%20runtime%20and%20memory%20usage/py-biohansel-vs-snippy-benchmarking-results.ipynb)
+- [trace.csv](./Methods/BioHansel%20compute%20performance/Determination%20of%20runtime%20and%20memory%20usage/trace.csv)
 
-## 9. Results and Discussion
+## Results and Discussion
 
-### 9.1 Analysis of retrospective outbreaks with BioHansel
-
-- [Table_S1_SH_Outbreaks_Bekal_and_coll.tab](./8.%20Methods/8.3%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table_S1_SH_Outbreaks_Bekal_and_coll.tab)
-- [Table_S14_Heidelberg_backbone_tree_sequences_and_genome_positions_BioHansel_scheme v0.5.0.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table_S14_Heidelberg_backbone_tree_sequences_and_genome_positions_BioHansel_scheme%20v0.5.0.txt)
-- [Table_S15_SH_outbreaks_SNV_distance_matrix.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table_S15_SH_outbreaks_SNV_distance_matrix.txt)
+### BioHansel quickly and accurately genotypes isolates from WGS data
 
 #### BioHansel_results_SH_outbreaks
 
-- [BioHansel_raw_datasets_match_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel%20results%20for%20SH%20outbreaks%20dataset/BioHansel_raw_datasets_match_results_SH_outbreaks.txt)
-- [BioHansel_raw_datasets_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel%20results%20for%20SH%20outbreaks%20dataset/BioHansel_raw_datasets_results_SH_outbreaks.txt)
-- [BioHansel_raw_datasets_tech_results_SH_outbreaks.txt](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/BioHansel%20results%20for%20SH%20outbreaks%20dataset/BioHansel_raw_datasets_tech_results_SH_outbreaks.txt)
+- [Table 16a BioHansel_tech_results_SH_outbreaks.txt](./Results%20and%20Discussion/BioHansel%20quickly%20and%20accurately%20genotypes%20isolates%20from%20WGS%20data/Outbreak%20Analysis/BioHansel%20results%20for%20SH%20outbreaks%20dataset/Table%20S16a%20BioHansel_raw_datasets_tech_results_SH_outbreaks.tab)
+- [Table 16b BioHansel_results_SH_outbreaks.txt](./Results%20and%20Discussion/BioHansel%20quickly%20and%20accurately%20genotypes%20isolates%20from%20WGS%20data/Outbreak%20Analysis/BioHansel%20results%20for%20SH%20outbreaks%20dataset/Table%20S16b%20BioHansel_raw_datasets_results_SH_outbreaks.tab)
+- [Table 16c BioHansel_match_results_SH_outbreaks.txt](./Results%20and%20Discussion/BioHansel%20quickly%20and%20accurately%20genotypes%20isolates%20from%20WGS%20data/Outbreak%20Analysis/BioHansel%20results%20for%20SH%20outbreaks%20dataset/Table%20S16c%20BioHansel_raw_datasets_match_results_SH_outbreaks.tab)
 
 #### SNVPhyl_run_SH_outbreaks
 
-- [SH_outbreak_analysis_by_SNVPHYL-results.zip](./9.%20Results%20and%20Discussion/9.1%20Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/SH_outbreak_analysis_by_SNVPHYL-results.zip)
+- [Appendix III SH_outbreak_analysis_by_SNVPHYL-results.zip](./Results%20and%20Discussion/BioHansel%20quickly%20and%20accurately%20genotypes%20isolates%20from%20WGS%20data/Outbreak%20Analysis/Appendix%20III%20SH_outbreak_analysis_by_SNVPHYL-results.zip)
 
-### 9.2 BioHansel concordance with traditional SNP calling workflows
+#### BioNumerics results for SH outbreaks
 
-- [Table_S16_BioHansel_Coverage_Comparison_1000_Typhi_datasets.xlsx](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S16_BioHansel_Coverage_Comparison_1000_Typhi_datasets.xlsx)
-- [Table_S17_Genotyping_results_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S17_Genotyping_results_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt)
-- [Table_S18_Genotyping_results_summary_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S18_Genotyping_results_summary_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt)
-- [Table_S19_Comparison_base_detection_in_mixed_genomes_for_BioHansel_and_Snippy.txt](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S19_Comparison_base_detection_in_mixed_genomes_for_BioHansel_and_Snippy.txt)
-- [Table_S20_Comparison_of_base_detection_at_each_target_SNP_position_in_mixed_genomes_for_BioHansel_and_Snippy.xlsx](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S20_Comparison_of_base_detection_at_each_target_SNP_position_in_mixed_genomes_for_BioHansel_and_Snippy.xlsx)
-- [Table_S21_Results_Summary_per_scheme_for_comparison_base_detection_in_mixed_genomes_for_BioHansel_and_Snippy.xlsx](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S21_Results_Summary_per_scheme_for_comparison_base_detection_in_mixed_genomes_for_BioHansel_and_Snippy.xlsx)
-- [Table_S22_Results_Summary_comparison_base_detection_in_mixed_genomes_BioHansel_and_Snippy.pdf](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S22_Results_Summary_comparison_base_detection_in_mixed_genomes_BioHansel_and_Snippy.pdf)
-- [Figure_S1_Comparison_of_base_detection_results_in_synthetically_contaminated_datasets_between_BioHansel_and_Snippy.pdf](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Figure_S1_Comparison_of_base_detection_results_in_synthetically_contaminated_datasets_between_BioHansel_and_Snippy.pdf)
-- [Table_S23_Metadata_for_1910_Typhi_strains.txt](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S23_Metadata_for_1910_Typhi_strains.txt)
-- [Table_S24_BioHansel_Results_for_1910_Typhi_strains.txt](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S24_BioHansel_Results_for_1910_Typhi_strains.txt)
-- [Analysis_of_the_16_Typhi_samples_that_failed_BioHansel_QC.pdf](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/Analysis_of_the_16_Typhi_samples_that_failed_BioHansel_QC.pdf)
+- [Figure S2 BioNumerics Dendrogram](./Results%20and%20Discussion/BioHansel%20quickly%20and%20accurately%20genotypes%20isolates%20from%20WGS%20data/Outbreak%20Analysis/SH_outbreak_analysis_with_BioNumerics_wgMLST/Figure%20S2%20BioNumerics%20dendrogram.pdf)
+- [Table S17 BioNumerics wgMLST similarity matrix.xlsx](./Results%20and%20Discussion/BioHansel%20quickly%20and%20accurately%20genotypes%20isolates%20from%20WGS%20data/Outbreak%20Analysis/SH_outbreak_analysis_with_BioNumerics_wgMLST/Table%20S17%20BioNumerics%20wgMLST%20similarity%20matrix.xlsx)
+- [Table S18 BioNumerics wgMLST character data.xlsx](./Results%20and%20Discussion/BioHansel%20quickly%20and%20accurately%20genotypes%20isolates%20from%20WGS%20data/Outbreak%20Analysis/SH_outbreak_analysis_with_BioNumerics_wgMLST/Table%20S18%20BioNumerics%20wgMLST%20character%20data.xlsx)
 
-#### K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC
+#### Outbreak Analysis results
 
-- [K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC.zip](./9.%20Results%20and%20Discussion/9.2%20BioHansel%20concordance%20with%20traditional%20SNP%20calling%20workflows/K-mer_match_results_for_16_Typhi_samples_that_failed_BioHansel_QC.zip)
+- [Table_S4_SH_Outbreaks_Bekal_and_coll.tab](./Methods/Analysis%20of%20retrospective%20outbreaks%20with%20BioHansel/Table_S1_SH_Outbreaks_Bekal_and_coll.tab)
+- [Table_S19_Heidelberg_backbone_tree_sequences_and_genome_positions_BioHansel_scheme v0.5.0.txt](./Results%20and%20Discussion/BioHansel%20quickly%20and%20accurately%20genotypes%20isolates%20from%20WGS%20data/Table_S19_Heidelberg_backbone_BioHansel_scheme%20v0.5.0.tab)
+- [Table_S20_SH_outbreaks_SNV_distance_matrix.txt](./Results%20and%20Discussion/BioHansel%20quickly%20and%20accurately%20genotypes%20isolates%20from%20WGS%20data/Table_S20_SH_outbreaks_SNV_distance_matrix.tab)
 
-### 9.3 QA&QC
+### BioHansel’s genotyping results have high concordance with traditional SNP calling workflows
 
-#### 9.3.1 BioHansel QC module detects contamination in synthetic WGS reads
+- [Table_S21_BioHansel_Coverage_Comparison_1000_Typhi_datasets.xlsx](./Results%20and%20Discussion/BioHansel's%20genotyping%20results%20have%20high%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S21_BioHansel_Coverage_Comparison_1000_Typhi_datasets.xlsx)
+- [Table_S22_Genotyping_results_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt](./Results%20and%20Discussion/BioHansel's%20genotyping%20results%20have%20high%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S22_Genotyping_results_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt)
+- [Table_S23_Genotyping_results_summary_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt](./Results%20and%20Discussion/BioHansel's%20genotyping%20results%20have%20high%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S23_Genotyping_results_summary_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt)
+- [Table_S24_Metadata_for_1910_Typhi_strains.txt](./Results%20and%20Discussion/BioHansel's%20genotyping%20results%20have%20high%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S24_Metadata_for_1910_Typhi_strains.txt)
+- [Table_S25_BioHansel_Results_for_1910_Typhi_strains.txt](./Results%20and%20Discussion/BioHansel's%20genotyping%20results%20have%20high%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S25_BioHansel_Results_for_1910_Typhi_strains.txt)
+- [Appendix IV Analysis_of_the_16_Typhi_samples_that_failed_BioHansel_QC.pdf](./Results%20and%20Discussion/BioHansel's%20genotyping%20results%20have%20high%20concordance%20with%20traditional%20SNP%20calling%20workflows/Appendix%20IV%20Analysis_of_the_16_Typhi_samples_that_failed_BioHansel_QC.pdf)
 
-- [Table_S25_BioHansel_QA&QC_results_with_synthetic_contaminated_SE_datasets.xlsx](./9.%20Results%20and%20Discussion/9.3%20QA&QC/9.3.1%20BioHansel%20QC%20module%20detects%20contamination%20in%20synthetic%20WGS%20reads/Table_S25_BioHansel_QA&QC_results_with_synthetic_contaminated_SE_datasets.xlsx)
-- [Table_S26_BioHansel_QA&QC_results_with_synthetic_contaminated_SH_datasets.xlsx](./9.%20Results%20and%20Discussion/9.3%20QA&QC/9.3.1%20BioHansel%20QC%20module%20detects%20contamination%20in%20synthetic%20WGS%20reads/Table_S26_BioHansel_QA&QC_results_with_synthetic_contaminated_SH_datasets.xlsx)
-- [Table_S27_BioHansel_QA&QC_results_with_synthetic_contaminated_Typhi_datasets.xlsx](./9.%20Results%20and%20Discussion/9.3%20QA&QC/9.3.1%20BioHansel%20QC%20module%20detects%20contamination%20in%20synthetic%20WGS%20reads/Table_S27_BioHansel_QA&QC_results_with_synthetic_contaminated_Typhi_datasets.xlsx)
-- [Table_S28_BioHansel_QA&QC_results_with_synthetic_contaminated_ST_datasets.xlsx](./9.%20Results%20and%20Discussion/9.3%20QA&QC/9.3.1%20BioHansel%20QC%20module%20detects%20contamination%20in%20synthetic%20WGS%20reads/Table_S28_BioHansel_QA&QC_results_with_synthetic_contaminated_ST_datasets.xlsx)
-- [Table_S29_BioHansel_QA&QC_results_with_synthetic_contaminated_MTB_datasets.xlsx](./9.%20Results%20and%20Discussion/9.3%20QA&QC/9.3.1%20BioHansel%20QC%20module%20detects%20contamination%20in%20synthetic%20WGS%20reads/Table_S29_BioHansel_QA&QC_results_with_synthetic_contaminated_MTB_datasets.xlsx)
+### Quality assessment and quality control
 
-### 9.4 Performance: comparing BioHansel runtime and memory usage with a traditional SNP genotyping workflow
+#### BioHansel detects contamination in synthetic WGS reads
 
-- [Table S31_and_Figures_S2_to_S4.docx](./9.%20Results%20and%20Discussion/9.3%20Performance_%20comparing%20BioHansel%20runtime%20and%20memory%20usage%20with%20a%20traditional%20SNP%20genotyping%20workflow/Table%20S31_and_Figures_S2_to_S4.docx)
-- [Tables S30, S31, and S34 Run_Time_Memory_Stats_HPC_cluster_BioHansel_vs_Snippy.xlsx](./9.%20Results%20and%20Discussion/9.3%20Performance_%20comparing%20BioHansel%20runtime%20and%20memory%20usage%20with%20a%20traditional%20SNP%20genotyping%20workflow/Tables%20S27,%20S28,%20and%20S31%20Run_Time_Memory_Stats_HPC_cluster_BioHansel_vs_Snippy.xlsx)
-- [Tables S32 and S33 Local_Biohansel_runtime_results.xlsx](./9.%20Results%20and%20Discussion/9.3%20Performance_%20comparing%20BioHansel%20runtime%20and%20memory%20usage%20with%20a%20traditional%20SNP%20genotyping%20workflow/Tables%20S29%20and%20S30%20Local_Biohansel_runtime_results.xlsx)
+- [Figure_S3_Comparison_of_base_detection_results_in_synthetically_contaminated_datasets_between_BioHansel_and_Snippy.pdf](./Results%20and%20Discussion/Quality%20assessment%20and%20quality%20control/Figure%20S2%20Comparison_of_base_detection_results_in_synthetically_contaminated_datasets_between_BioHansel_and_Snippy.pdf)
+- [Table_S26_Comparison_base_detection_in_mixed_genomes_for_BioHansel_and_Snippy.txt](./Results%20and%20Discussion/Quality%20assessment%20and%20quality%20control/Table_S26_Comparison_base_detection_in_mixed_genomes_for_BioHansel_and_Snippy.txt)
+- [Table_S27_Comparison_of_base_detection_at_each_target_SNP_position_in_mixed_genomes_for_BioHansel_and_Snippy.xlsx](./Results%20and%20Discussion/Quality%20assessment%20and%20quality%20control/Table_S27_Comparison_of_base_detection_at_each_target_SNP_position_in_mixed_genomes_for_BioHansel_and_Snippy.xlsx)
+- [Table_S28_Results_Summary_per_scheme_for_comparison_base_detection_in_mixed_genomes_for_BioHansel_and_Snippy.xlsx](./Results%20and%20Discussion/Quality%20assessment%20and%20quality%20control/Table_S28_Results_Summary_per_scheme_for_comparison_base_detection_in_mixed_genomes_for_BioHansel_and_Snippy.xlsx)
+- [Table_S29_Results_Summary_comparison_base_detection_in_mixed_genomes_BioHansel_and_Snippy.pdf](./Results%20and%20Discussion/Quality%20assessment%20and%20quality%20control/Table_S29_Results_Summary_comparison_base_detection_in_mixed_genomes_BioHansel_and_Snippy.pdf)
+- [Table_S30_BioHansel_QA&QC_results_with_synthetic_contaminated_SE_datasets.xlsx](./Results%20and%20Discussion/Quality%20assessment%20and%20quality%20control/Table_S30_BioHansel_QA%26QC_results_with_synthetic_contaminated_SE_datasets.xlsx)
+- [Table_S31_BioHansel_QA&QC_results_with_synthetic_contaminated_SH_datasets.xlsx](./Results%20and%20Discussion/Quality%20assessment%20and%20quality%20control/Table_S31_BioHansel_QA%26QC_results_with_synthetic_contaminated_SH_datasets.xlsx)
+- [Table_S32_BioHansel_QA&QC_results_with_synthetic_contaminated_Typhi_datasets.xlsx](./Results%20and%20Discussion/Quality%20assessment%20and%20quality%20control/Table_S32_BioHansel_QA%26QC_results_with_synthetic_contaminated_Typhi_datasets.xlsx)
+- [Table_S33_BioHansel_QA&QC_results_with_synthetic_contaminated_ST_datasets.xlsx](./Results%20and%20Discussion/Quality%20assessment%20and%20quality%20control/Table_S33_BioHansel_QA%26QC_results_with_synthetic_contaminated_ST_datasets.xlsx)
+- [Table_S34_BioHansel_QA&QC_results_with_synthetic_contaminated_MTB_datasets.xlsx](./Results%20and%20Discussion/Quality%20assessment%20and%20quality%20control/Table_S34_BioHansel_QA%26QC_results_with_synthetic_contaminated_MTB_datasets.xlsx)
+
+### BioHansel’s speed and memory performance compare favourably to traditional SNP-calling pipelines
+
+- [Figure_S4 BioHansel runtime on assemblies.docx](./Results%20and%20Discussion/BioHansel's%20speed%20and%20memory%20performance/Figure%20S3%20BioHansel%20runtime%20on%20assemblies.docx)
+- [Figure_S5 BioHansel memory usage on assemblies.docx](./Results%20and%20Discussion/BioHansel's%20speed%20and%20memory%20performance/Figure%20S4%20BioHansel%20memory%20usage%20on%20assemblies.docx)
+- [Figure_S6 BioHansel Runtime per assembly per core for different schemas.docx](./Results%20and%20Discussion/BioHansel's%20speed%20and%20memory%20performance/Figure%20S5%20BioHansel%20Runtime%20per%20assembly%20per%20core%20for%20different%20schemas.docx)
+- [Table S35 Runtime on HPC computer cluster for BioHansel and Snippy vs WGS coverage.docx](./Results%20and%20Discussion/BioHansel's%20speed%20and%20memory%20performance/Table%20S35%20Runtime%20on%20HPC%20computer%20cluster%20for%20BioHansel%20and%20Snippy%20vs%20WGS%20coverage.docx)
 
