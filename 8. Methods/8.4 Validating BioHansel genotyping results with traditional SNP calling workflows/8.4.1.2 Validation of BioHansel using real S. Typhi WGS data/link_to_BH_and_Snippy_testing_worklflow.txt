@@ -1,2 +1,0 @@
-Link to BioHansel/Snippy testing workflow:
-https://github.com/peterk87/nf-biohansel-snippy-comparison/blob/master/main.nf

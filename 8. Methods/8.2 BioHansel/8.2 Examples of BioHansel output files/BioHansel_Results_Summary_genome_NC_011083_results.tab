@@ -1,2 +1,0 @@
-sample	scheme	scheme_version	subtype	all_subtypes	kmers_matching_subtype	are_subtypes_consistent	inconsistent_subtypes	n_kmers_matching_all	n_kmers_matching_all_expected	n_kmers_matching_positive	n_kmers_matching_positive_expected	n_kmers_matching_subtype	n_kmers_matching_subtype_expected	file_path	qc_status	qc_message
-SH_ref_SL476_NC_011083.1	heidelberg	0.5.0	1.1	1; 1.1	1.1	True		202	202	13	13	11	11	/Drives/P/Galaxies/main_nml/galaxy-19.01/server/database/jobs/003/008/3008179/working/SH_ref_SL476_NC_011083.1.fasta	PASS	

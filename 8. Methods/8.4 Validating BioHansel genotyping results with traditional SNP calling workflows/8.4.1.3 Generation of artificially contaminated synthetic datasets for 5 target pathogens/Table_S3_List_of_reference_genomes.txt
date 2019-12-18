@@ -1,8 +1,0 @@
-Pathogen	NCBI SRA Accession # for Genome A	NCBI SRA Accession # for Genome B	BioHansel Genotype Genome A	BioHansel Genotype Genome B
-S. Enteritidis	SRR4427924	SRR6155464	2.2.2.1.2.1.1.1	2.1.5.4.1.1.1.1.1
-S. Heidelberg	SRR2025305	SRR3057173	2.2.2.2.1.3	2.1.1.1.1
-S. Typhimurium	ERR1251516	SRR5951442	2.3.1.1.1.3.1.2.1	2.2.1.3.1.9.3.1
-M. tuberculosis	ERR221649	SRR6153219	4.3.4.2.1	1.1.1.1
-S. Typhi	ERR230414	ERR343277	0.1	2.3.5.4.1*
-				
-*Original Wong et al genotype=3.5.3				
