@@ -1,0 +1,20 @@
+Figure I: Backbone trees of the population structures based on the canonical SNP positions targeted by the BioHansel schemes.
+For list of SNP positions, see supplementary document entitled "Backbone_positions_5_schemes.xlsx" in section 8.1
+Molecular Phylogenetic analysis by Maximum Likelihood method
+The evolutionary history was inferred by using the Maximum Likelihood method based on the Tamura-Nei model [1]. 
+Evolutionary analyses were conducted in MEGA7 [2].
+
+Figure Ia: Salmonella ser. Enteritidis population structure as defined by the BioHansel SE scheme v1.0.7.  The tree with the highest log likelihood (-2536.29) is shown. Initial tree(s) for the heuristic search were obtained automatically by applying Neighbor-Join and BioNJ algorithms to a matrix of pairwise distances estimated using the Maximum Composite Likelihood (MCL) approach, and then selecting the topology with superior log likelihood value. The tree is drawn to scale, with branch lengths measured in the number of substitutions per site. The analysis involved 118 nucleotide sequences. There were a total of 317 positions in the final dataset. 
+
+Figure Ib: Salmonella ser. Heidelberg population structure as defined by the BioHansel SH scheme v0.5.0.   The tree with the highest log likelihood (-1426.27) is shown. Initial tree(s) for the heuristic search were obtained automatically by applying Neighbor-Join and BioNJ algorithms to a matrix of pairwise distances estimated using the Maximum Composite Likelihood (MCL) approach, and then selecting the topology with superior log likelihood value. The tree is drawn to scale, with branch lengths measured in the number of substitutions per site. The analysis involved 51 nucleotide sequences. There were a total of 202 positions in the final dataset. 
+
+Figure Ic: Salmonella ser. Typhimurium population structure as defined by the BioHansel ST scheme v0.5.5.  The tree with the highest log likelihood (-3422.60) is shown. Initial tree(s) for the heuristic search were obtained automatically by applying Neighbor-Join and BioNJ algorithms to a matrix of pairwise distances estimated using the Maximum Composite Likelihood (MCL) approach, and then selecting the topology with superior log likelihood value. The tree is drawn to scale, with branch lengths measured in the number of substitutions per site. The analysis involved 121 nucleotide sequences. There were a total of 430 positions in the final dataset. 
+
+Figure Id: Salmonella ser. Typhi population structure as defined by the BioHansel Typhi scheme v1.2.0. The tree with the highest log likelihood (-471.61) is shown. Initial tree(s) for the heuristic search were obtained automatically by applying Neighbor-Join and BioNJ algorithms to a matrix of pairwise distances estimated using the Maximum Composite Likelihood (MCL) approach, and then selecting the topology with superior log likelihood value. The tree is drawn to scale, with branch lengths measured in the number of substitutions per site. The analysis involved 68 nucleotide sequences. There were a total of 68 positions in the final dataset. 
+
+Figure Ie: Mycobacterium tuberculosis population structure as defined by the BioHansel tb_speciation scheme v1.0.5. The tree with the highest log likelihood (-452.35) is shown. Initial tree(s) for the heuristic search were obtained automatically by applying Neighbor-Join and BioNJ algorithms to a matrix of pairwise distances estimated using the Maximum Composite Likelihood (MCL) approach, and then selecting the topology with superior log likelihood value. The tree is drawn to scale, with branch lengths measured in the number of substitutions per site. The analysis involved 62 nucleotide sequences. There were a total of 62 positions in the final dataset. 
+
+References:
+1. Tamura K. and Nei M. (1993). Estimation of the number of nucleotide substitutions in the control region of mitochondrial DNA in humans and chimpanzees. Molecular Biology and Evolution 10:512-526.
+2. Kumar S., Stecher G., and Tamura K. (2016). MEGA7: Molecular Evolutionary Genetics Analysis version 7.0 for bigger datasets.Molecular Biology and Evolution 33:1870-1874.
+
