@@ -186,8 +186,8 @@ See https://github.com/peterk87/nf-biohansel-sra-benchmark for BioHansel and Sni
 
 ### BioHansel’s speed and memory performance compare favourably to traditional SNP-calling pipelines
 
-- [Figure_S4 BioHansel runtime on assemblies.docx](./Results%20and%20Discussion/BioHansel's%20speed%20and%20memory%20performance/Figure%20S4%20BioHansel%20runtime%20on%20assemblies.docx)
-- [Figure_S5 BioHansel memory usage on assemblies.docx](./Results%20and%20Discussion/BioHansel's%20speed%20and%20memory%20performance/Figure%20S5%20BioHansel%20memory%20usage%20on%20assemblies.docx)
-- [Figure_S6 BioHansel Runtime per assembly per core for different schemas.docx](./Results%20and%20Discussion/BioHansel's%20speed%20and%20memory%20performance/Figure%20S6%20BioHansel%20Runtime%20per%20assembly%20per%20core%20for%20different%20schemas.docx)
-- [Table S36 Runtime on HPC computer cluster for BioHansel and Snippy vs WGS coverage.docx](./Results%20and%20Discussion/BioHansel's%20speed%20and%20memory%20performance/Table%20S36%20Runtime%20on%20HPC%20computer%20cluster%20for%20BioHansel%20and%20Snippy%20vs%20WGS%20coverage.docx)
+- [Figure_S4 BioHansel runtime on assemblies.pdf](./Results%20and%20Discussion/BioHansel's%20speed%20and%20memory%20performance/Figure%20S4%20BioHansel%20runtime%20on%20assemblies.pdf)
+- [Figure_S5 BioHansel memory usage on assemblies.pdf](./Results%20and%20Discussion/BioHansel's%20speed%20and%20memory%20performance/Figure%20S5%20BioHansel%20memory%20usage%20on%20assemblies.pdf)
+- [Figure_S6 BioHansel Runtime per assembly per core for different schemas.pdf](./Results%20and%20Discussion/BioHansel's%20speed%20and%20memory%20performance/Figure%20S6%20BioHansel%20Runtime%20per%20assembly%20per%20core%20for%20different%20schemas.pdf)
+- [Table S36 Runtime on HPC computer cluster for BioHansel and Snippy vs WGS coverage.pdf](./Results%20and%20Discussion/BioHansel's%20speed%20and%20memory%20performance/Table%20S36%20Runtime%20on%20HPC%20computer%20cluster%20for%20BioHansel%20and%20Snippy%20vs%20WGS%20coverage.pdf)
 
