@@ -69,7 +69,7 @@ See https://github.com/peterk87/nf-biohansel-snippy-comparison/blob/master/main.
 for validation](./Methods/BioHansel%20SNP%20detection%20validation/Supplementary%20Worksheet%201.pdf)
 - [Jupyter Notebook to tabulate NextFlow workflow results](./Methods/BioHansel%20SNP%20detection%20validation/Concordance%20Assessment%20-%20S.%20Typhi/py-compile-biohansel-snippy-comparison-results.ipynb)
 - [HTML version of Jupyter Notebook to tabulate NextFlow workflow results](./Methods/BioHansel%20SNP%20detection%20validation/Concordance%20Assessment%20-%20S.%20Typhi/py-compile-biohansel-snippy-comparison-results.html)
-- [Table of accessions for workflow bh-snippy-compare-1000genomes-S2-accessions.csv](./Methods/BioHansel%20SNP%20detection%20validation/Concordance%20Assessment%20-%20S.%20Typhi/bh-snippy-compare-1000genomes-S2-accessions.csv/bh-snippy-compare-1000genomes-S2-accessions.csv)
+- [Table of accessions for workflow](./Methods/BioHansel%20SNP%20detection%20validation/Concordance%20Assessment%20-%20S.%20Typhi/bh-snippy-compare-1000genomes-S2-accessions.csv/bh-snippy-compare-1000genomes-S2-accessions.csv)
 
 ### Contamination Detection
 
@@ -130,9 +130,9 @@ See https://github.com/peterk87/nf-biohansel-sra-benchmark for BioHansel and Sni
 
 #### Determination of runtime and memory usage
 
-- [Jupyter Notebook to tabulate NextFlow workflow results py-biohansel-vs-snippy-benchmarking-results.ipynb](./Methods/BioHansel%20compute%20performance/Determination%20of%20runtime%20and%20memory%20usage/py-biohansel-vs-snippy-benchmarking-results.ipynb)
-- [HTML version of Jupyter Notabook py-biohansel-vs-snippy-benchmarking-results.html](./Methods/BioHansel%20compute%20performance/Determination%20of%20runtime%20and%20memory%20usage/py-biohansel-vs-snippy-benchmarking-results.html)
-- [trace.csv](./Methods/BioHansel%20compute%20performance/Determination%20of%20runtime%20and%20memory%20usage/trace.csv)
+- [Jupyter Notebook to tabulate NextFlow workflow results](./Methods/BioHansel%20compute%20performance/Determination%20of%20runtime%20and%20memory%20usage/py-biohansel-vs-snippy-benchmarking-results.ipynb)
+- [HTML version of Jupyter Notebook](./Methods/BioHansel%20compute%20performance/Determination%20of%20runtime%20and%20memory%20usage/py-biohansel-vs-snippy-benchmarking-results.html)
+- [NextFlow worflow output file](./Methods/BioHansel%20compute%20performance/Determination%20of%20runtime%20and%20memory%20usage/trace.csv)
 
 ## Results and Discussion
 
