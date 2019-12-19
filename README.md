@@ -140,9 +140,9 @@ See https://github.com/peterk87/nf-biohansel-sra-benchmark for BioHansel and Sni
 
 #### BioHansel_results_SH_outbreaks
 
-- [Table 16a BioHansel_tech_results_SH_outbreaks.txt](./Results%20and%20Discussion/BioHansel%20quickly%20and%20accurately%20genotypes%20isolates%20from%20WGS%20data/Outbreak%20Analysis/BioHansel%20results%20for%20SH%20outbreaks%20dataset/Table%20S16a%20BioHansel_raw_datasets_tech_results_SH_outbreaks.tab)
-- [Table 16b BioHansel_results_SH_outbreaks.txt](./Results%20and%20Discussion/BioHansel%20quickly%20and%20accurately%20genotypes%20isolates%20from%20WGS%20data/Outbreak%20Analysis/BioHansel%20results%20for%20SH%20outbreaks%20dataset/Table%20S16b%20BioHansel_raw_datasets_results_SH_outbreaks.tab)
-- [Table 16c BioHansel_match_results_SH_outbreaks.txt](./Results%20and%20Discussion/BioHansel%20quickly%20and%20accurately%20genotypes%20isolates%20from%20WGS%20data/Outbreak%20Analysis/BioHansel%20results%20for%20SH%20outbreaks%20dataset/Table%20S16c%20BioHansel_raw_datasets_match_results_SH_outbreaks.tab)
+- [Table S16a BioHansel_tech_results_SH_outbreaks.txt](./Results%20and%20Discussion/BioHansel%20quickly%20and%20accurately%20genotypes%20isolates%20from%20WGS%20data/Outbreak%20Analysis/BioHansel%20results%20for%20SH%20outbreaks%20dataset/Table%20S16a%20BioHansel_raw_datasets_tech_results_SH_outbreaks.tab)
+- [Table S16b BioHansel_results_SH_outbreaks.txt](./Results%20and%20Discussion/BioHansel%20quickly%20and%20accurately%20genotypes%20isolates%20from%20WGS%20data/Outbreak%20Analysis/BioHansel%20results%20for%20SH%20outbreaks%20dataset/Table%20S16b%20BioHansel_raw_datasets_results_SH_outbreaks.tab)
+- [Table S16c BioHansel_match_results_SH_outbreaks.txt](./Results%20and%20Discussion/BioHansel%20quickly%20and%20accurately%20genotypes%20isolates%20from%20WGS%20data/Outbreak%20Analysis/BioHansel%20results%20for%20SH%20outbreaks%20dataset/Table%20S16c%20BioHansel_raw_datasets_match_results_SH_outbreaks.tab)
 
 #### SNVPhyl_run_SH_outbreaks
 
