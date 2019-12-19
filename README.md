@@ -130,8 +130,8 @@ See https://github.com/peterk87/nf-biohansel-sra-benchmark for BioHansel and Sni
 
 #### Determination of runtime and memory usage
 
-- [py-biohansel-vs-snippy-benchmarking-results.html](./Methods/BioHansel%20compute%20performance/Determination%20of%20runtime%20and%20memory%20usage/py-biohansel-vs-snippy-benchmarking-results.html)
-- [py-biohansel-vs-snippy-benchmarking-results.ipynb](./Methods/BioHansel%20compute%20performance/Determination%20of%20runtime%20and%20memory%20usage/py-biohansel-vs-snippy-benchmarking-results.ipynb)
+- [Jupyter Notebook to tabulate NextFlow workflow results py-biohansel-vs-snippy-benchmarking-results.ipynb](./Methods/BioHansel%20compute%20performance/Determination%20of%20runtime%20and%20memory%20usage/py-biohansel-vs-snippy-benchmarking-results.ipynb)
+- [HTML version of Jupyter Notabook py-biohansel-vs-snippy-benchmarking-results.html](./Methods/BioHansel%20compute%20performance/Determination%20of%20runtime%20and%20memory%20usage/py-biohansel-vs-snippy-benchmarking-results.html)
 - [trace.csv](./Methods/BioHansel%20compute%20performance/Determination%20of%20runtime%20and%20memory%20usage/trace.csv)
 
 ## Results and Discussion
