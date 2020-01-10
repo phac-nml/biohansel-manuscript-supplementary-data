@@ -160,7 +160,7 @@ See https://github.com/peterk87/nf-biohansel-sra-benchmark for BioHansel and Sni
 
 ### BioHansel’s genotyping results have high concordance with traditional SNP calling workflows
 
-- [Table S22 BioHansel Coverage Comparison 1000 Typhi datasets.xlsx](./Results%20and%20Discussion/BioHansel's%20genotyping%20results%20have%20high%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S22_BioHansel_Coverage_Comparison_1000_Typhi_datasets.xlsx)
+- [Table S22 BioHansel vs Snippy Coverage Comparison 1000 Typhi datasets](./Results%20and%20Discussion/BioHansel's%20genotyping%20results%20have%20high%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S22_BioHansel_coverage_comparison_snippy_bam_mean_depths_Typhi_1000_datasets.txt)
 - [Table S23 Genotyping results for BioHansel vs Snippy Accuracy Benchmarking Typhi.txt](./Results%20and%20Discussion/BioHansel's%20genotyping%20results%20have%20high%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S23_Genotyping_results_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt)
 - [Table S24 Genotyping results summary for BioHansel vs Snippy Accuracy Benchmarking Typhi.txt](./Results%20and%20Discussion/BioHansel's%20genotyping%20results%20have%20high%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S24_Genotyping_results_summary_for_BioHansel_vs_Snippy_Accuracy_Benchmarking_Typhi.txt)
 - [Table S25 Metadata for 1910 Typhi strains.txt](./Results%20and%20Discussion/BioHansel's%20genotyping%20results%20have%20high%20concordance%20with%20traditional%20SNP%20calling%20workflows/Table_S25_Metadata_for_1910_Typhi_strains.txt)
